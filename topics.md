@@ -42,6 +42,7 @@
 
 ## others 
 
+- [Staacks/inkkeys](https://github.com/Staacks/inkkeys) - https://there.oughta.be/a/macro-keyboard
 - [HammerCreativeLLC/statistical-cw-decoder](https://github.com/HammerCreativeLLC/statistical-cw-decoder) - Real-time Morse Code decoder using K-Means clustering for automatic timing calibration
 - [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev agents
 - [n1gp/Anvelina_PROIII](https://github.com/n1gp/Anvelina_PROIII) - Anvelina_PROIII SDR Protocol 2 Source Code
