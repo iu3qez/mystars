@@ -42,6 +42,7 @@
 
 ## others 
 
+- [mixelpixx/KiCAD-MCP-Server](https://github.com/mixelpixx/KiCAD-MCP-Server) - KiCAD MCP is a Model Context Protocol (MCP) implementation that enables Large Language Models (LLMs) like Claude to directly interact with KiCAD for printed circuit board design.
 - [Staacks/inkkeys](https://github.com/Staacks/inkkeys) - https://there.oughta.be/a/macro-keyboard
 - [HammerCreativeLLC/statistical-cw-decoder](https://github.com/HammerCreativeLLC/statistical-cw-decoder) - Real-time Morse Code decoder using K-Means clustering for automatic timing calibration
 - [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev agents
