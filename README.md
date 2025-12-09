@@ -142,6 +142,7 @@
 
 ## Shell 
 
+- [mhylle/claude-skills-collection](https://github.com/mhylle/claude-skills-collection) - Custom skills and agents for Claude Code - codebase research, context management, and implementation planning workflows
 - [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
 - [peterkrueck/Claude-Code-Development-Kit](https://github.com/peterkrueck/Claude-Code-Development-Kit) - Handle context at scale - my custom Claude Code workflow including hooks, mcp and sub agents
 - [knavillus1/codex_bootstrap](https://github.com/knavillus1/codex_bootstrap) - A minimal OpenAI Codex Agent repo demonstrating environment setup script and AGENTS.md handling
