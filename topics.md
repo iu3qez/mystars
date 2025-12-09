@@ -42,6 +42,7 @@
 
 ## others 
 
+- [mhylle/claude-skills-collection](https://github.com/mhylle/claude-skills-collection) - Custom skills and agents for Claude Code - codebase research, context management, and implementation planning workflows
 - [mixelpixx/KiCAD-MCP-Server](https://github.com/mixelpixx/KiCAD-MCP-Server) - KiCAD MCP is a Model Context Protocol (MCP) implementation that enables Large Language Models (LLMs) like Claude to directly interact with KiCAD for printed circuit board design.
 - [Staacks/inkkeys](https://github.com/Staacks/inkkeys) - https://there.oughta.be/a/macro-keyboard
 - [HammerCreativeLLC/statistical-cw-decoder](https://github.com/HammerCreativeLLC/statistical-cw-decoder) - Real-time Morse Code decoder using K-Means clustering for automatic timing calibration
