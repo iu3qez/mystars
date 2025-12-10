@@ -42,6 +42,9 @@
 
 ## others 
 
+- [ramphands/mic-pre](https://github.com/ramphands/mic-pre) - battery-powered ultra-small electret microphone preamp for synth/Monome Norns/field recording
+- [LynxCrew/adxl345-probe](https://github.com/LynxCrew/adxl345-probe) - 
+- [MRX8024/accel-endstop](https://github.com/MRX8024/accel-endstop) - Klipper module for homing by accelerometer
 - [mhylle/claude-skills-collection](https://github.com/mhylle/claude-skills-collection) - Custom skills and agents for Claude Code - codebase research, context management, and implementation planning workflows
 - [mixelpixx/KiCAD-MCP-Server](https://github.com/mixelpixx/KiCAD-MCP-Server) - KiCAD MCP is a Model Context Protocol (MCP) implementation that enables Large Language Models (LLMs) like Claude to directly interact with KiCAD for printed circuit board design.
 - [Staacks/inkkeys](https://github.com/Staacks/inkkeys) - https://there.oughta.be/a/macro-keyboard
