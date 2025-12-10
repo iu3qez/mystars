@@ -64,6 +64,7 @@
 
 ## HTML 
 
+- [ramphands/mic-pre](https://github.com/ramphands/mic-pre) - battery-powered ultra-small electret microphone preamp for synth/Monome Norns/field recording
 - [SP6GK/TXRX_Relay_Board](https://github.com/SP6GK/TXRX_Relay_Board) - A PCB for switching the signal path between RX and TX in a high-power HF amplifier, such as the Forte 600. It includes RX/TX relays, an input SWR bridge, and analog input over power protection.
 - [SP6GK/Forte-600-HF-RF-Amplifier](https://github.com/SP6GK/Forte-600-HF-RF-Amplifier) - Project of 600 W LDMOS amlifier based on 2xMRF300.
 - [GadgetAngel/Voron2.4_My_Build_Log](https://github.com/GadgetAngel/Voron2.4_My_Build_Log) - This repository will hold any documents I use to help with building my Voron 2.4 250mm 3D Printer and the Voron 2.4 LDO 300mm Printer
@@ -125,6 +126,8 @@
 
 ## Python 
 
+- [LynxCrew/adxl345-probe](https://github.com/LynxCrew/adxl345-probe) - 
+- [MRX8024/accel-endstop](https://github.com/MRX8024/accel-endstop) - Klipper module for homing by accelerometer
 - [mixelpixx/KiCAD-MCP-Server](https://github.com/mixelpixx/KiCAD-MCP-Server) - KiCAD MCP is a Model Context Protocol (MCP) implementation that enables Large Language Models (LLMs) like Claude to directly interact with KiCAD for printed circuit board design.
 - [Staacks/inkkeys](https://github.com/Staacks/inkkeys) - https://there.oughta.be/a/macro-keyboard
 - [HammerCreativeLLC/statistical-cw-decoder](https://github.com/HammerCreativeLLC/statistical-cw-decoder) - Real-time Morse Code decoder using K-Means clustering for automatic timing calibration
