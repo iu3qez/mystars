@@ -50,6 +50,7 @@
 
 ## C++ 
 
+- [AndunHH/spacemouse](https://github.com/AndunHH/spacemouse) - Repository for a 6 degree of freedom (DOF) mouse, which emulates a 3Dconnexion "Space Mouse Pro wireless". It is based on four joysticks with additional keys or an encoder
 - [gabrielonet/HF_CW_Contest_transceiver_with_teensy_4_1](https://github.com/gabrielonet/HF_CW_Contest_transceiver_with_teensy_4_1) - 
 - [ianm8/iDSB40](https://github.com/ianm8/iDSB40) - Double sideband transceiver with inverse audio for the 40m band.
 - [sh123/nano_power_meter](https://github.com/sh123/nano_power_meter) - Dual channel Arduino Nano milliwatt power meter for HF/VHF/UHF/SHF bands
@@ -126,6 +127,7 @@
 
 ## Python 
 
+- [sb-ocr/ocreeb-mk-2](https://github.com/sb-ocr/ocreeb-mk-2) - Modular Macro Keyboard System
 - [LynxCrew/adxl345-probe](https://github.com/LynxCrew/adxl345-probe) - 
 - [MRX8024/accel-endstop](https://github.com/MRX8024/accel-endstop) - Klipper module for homing by accelerometer
 - [mixelpixx/KiCAD-MCP-Server](https://github.com/mixelpixx/KiCAD-MCP-Server) - KiCAD MCP is a Model Context Protocol (MCP) implementation that enables Large Language Models (LLMs) like Claude to directly interact with KiCAD for printed circuit board design.
