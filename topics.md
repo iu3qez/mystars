@@ -42,6 +42,8 @@
 
 ## others 
 
+- [sb-ocr/ocreeb-mk-2](https://github.com/sb-ocr/ocreeb-mk-2) - Modular Macro Keyboard System
+- [AndunHH/spacemouse](https://github.com/AndunHH/spacemouse) - Repository for a 6 degree of freedom (DOF) mouse, which emulates a 3Dconnexion "Space Mouse Pro wireless". It is based on four joysticks with additional keys or an encoder
 - [ramphands/mic-pre](https://github.com/ramphands/mic-pre) - battery-powered ultra-small electret microphone preamp for synth/Monome Norns/field recording
 - [LynxCrew/adxl345-probe](https://github.com/LynxCrew/adxl345-probe) - 
 - [MRX8024/accel-endstop](https://github.com/MRX8024/accel-endstop) - Klipper module for homing by accelerometer
