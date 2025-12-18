@@ -9,6 +9,7 @@
 - [Assembly](#assembly)
 - [C](#c)
 - [C++](#c++)
+- [Dart](#dart)
 - [G-code](#g-code)
 - [HTML](#html)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -58,6 +59,10 @@
 - [AndrewBCN/STM32-GPSDO](https://github.com/AndrewBCN/STM32-GPSDO) - An experimental GPSDO using an STM32 MCU and a u-blox Neo-M8 GNSS module.
 - [ea3igt/HL2-PA70](https://github.com/ea3igt/HL2-PA70) - 70W Power Amplifier for the Hermes-Lite 2.x
 - [sh123/esp32_loraprs](https://github.com/sh123/esp32_loraprs) - LoRa ESP32 KISS Bluetooth modem (for APRSDroid or aprs.fi iOS) +  APRS-IS RX/TX iGate over WiFi + Digipeater + DV (with Codec2 Walkie-Talkie)
+
+## Dart 
+
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 
 ## G-code 
 
@@ -148,6 +153,7 @@
 
 ## Shell 
 
+- [m0n0x41d/quint-code](https://github.com/m0n0x41d/quint-code) - Structured reasoning commands for Claude Code, Gemini, Cursor and Codex — hypothesis-driven decision making with auditable evidence trails
 - [mhylle/claude-skills-collection](https://github.com/mhylle/claude-skills-collection) - Custom skills and agents for Claude Code - codebase research, context management, and implementation planning workflows
 - [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
 - [peterkrueck/Claude-Code-Development-Kit](https://github.com/peterkrueck/Claude-Code-Development-Kit) - Handle context at scale - my custom Claude Code workflow including hooks, mcp and sub agents
