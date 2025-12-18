@@ -5,23 +5,49 @@
 
 ## Contents
 
+- [ai-agents](#ai-agents)
 - [arduino](#arduino)
+- [cli](#cli)
+- [developer-tools](#developer-tools)
+- [documentation](#documentation)
+- [flutter](#flutter)
 - [frontend](#frontend)
 - [gui](#gui)
 - [iot](#iot)
 - [open-source](#open-source)
 - [others](#others)
 - [productivity](#productivity)
+- [project-management](#project-management)
 - [python](#python)
 - [robotics](#robotics)
 - [webapp](#webapp)
 - [website](#website)
+
+## ai-agents 
+
+- [m0n0x41d/quint-code](https://github.com/m0n0x41d/quint-code) - Structured reasoning commands for Claude Code, Gemini, Cursor and Codex — hypothesis-driven decision making with auditable evidence trails
 
 ## arduino 
 
 - [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [sh123/nano_power_meter](https://github.com/sh123/nano_power_meter) - Dual channel Arduino Nano milliwatt power meter for HF/VHF/UHF/SHF bands
 - [tomwetjens/ArduinoEVSE](https://github.com/tomwetjens/ArduinoEVSE) - A simple EVSE (electric vehicle supply equipment or "wall charger") built using an Arduino and open source software.
+
+## cli 
+
+- [m0n0x41d/quint-code](https://github.com/m0n0x41d/quint-code) - Structured reasoning commands for Claude Code, Gemini, Cursor and Codex — hypothesis-driven decision making with auditable evidence trails
+
+## developer-tools 
+
+- [m0n0x41d/quint-code](https://github.com/m0n0x41d/quint-code) - Structured reasoning commands for Claude Code, Gemini, Cursor and Codex — hypothesis-driven decision making with auditable evidence trails
+
+## documentation 
+
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
+
+## flutter 
+
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 
 ## frontend 
 
@@ -134,6 +160,10 @@
 ## productivity 
 
 - [oxygen-fragment/claude-modular](https://github.com/oxygen-fragment/claude-modular) - Production-ready modular Claude Code framework with 30+ commands, token optimization, and MCP server integration. Achieves 2-10x productivity gains through   systematic command organization and hierar
+
+## project-management 
+
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 
 ## python 
 
