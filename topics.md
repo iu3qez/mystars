@@ -68,6 +68,8 @@
 
 ## others 
 
+- [Tom-ak2b/Thetis_Touchscreen_MIDI_Controller](https://github.com/Tom-ak2b/Thetis_Touchscreen_MIDI_Controller) - Control Thetis  or deskHPSDR with your own Midi Controller
+- [g0orx/rustyHPSDR](https://github.com/g0orx/rustyHPSDR) - Rust implementation of UI using OpenHPSDR Protocols 1 and 2
 - [GoodEarthWeather/myKicadProjects](https://github.com/GoodEarthWeather/myKicadProjects) - Kicad Schematic and PCB Projects
 - [sb-ocr/ocreeb-mk-2](https://github.com/sb-ocr/ocreeb-mk-2) - Modular Macro Keyboard System
 - [AndunHH/spacemouse](https://github.com/AndunHH/spacemouse) - Repository for a 6 degree of freedom (DOF) mouse, which emulates a 3Dconnexion "Space Mouse Pro wireless". It is based on four joysticks with additional keys or an encoder
@@ -167,6 +169,7 @@
 
 ## python 
 
+- [francescocozzi/hpsdr-udp-proxy](https://github.com/francescocozzi/hpsdr-udp-proxy) - High-performance UDP proxy/gateway for HPSDR protocol with authentication
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 
 ## robotics 
