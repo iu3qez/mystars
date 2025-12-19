@@ -11,6 +11,7 @@
 - [C++](#c++)
 - [Dart](#dart)
 - [G-code](#g-code)
+- [Go](#go)
 - [HTML](#html)
 - [Jupyter Notebook](#jupyter-notebook)
 - [KiCad Layout](#kicad-layout)
@@ -18,6 +19,7 @@
 - [Others](#others)
 - [Pascal](#pascal)
 - [Python](#python)
+- [Rust](#rust)
 - [Shell](#shell)
 - [Swift](#swift)
 - [Tcl](#tcl)
@@ -51,6 +53,7 @@
 
 ## C++ 
 
+- [Tom-ak2b/Thetis_Touchscreen_MIDI_Controller](https://github.com/Tom-ak2b/Thetis_Touchscreen_MIDI_Controller) - Control Thetis  or deskHPSDR with your own Midi Controller
 - [AndunHH/spacemouse](https://github.com/AndunHH/spacemouse) - Repository for a 6 degree of freedom (DOF) mouse, which emulates a 3Dconnexion "Space Mouse Pro wireless". It is based on four joysticks with additional keys or an encoder
 - [gabrielonet/HF_CW_Contest_transceiver_with_teensy_4_1](https://github.com/gabrielonet/HF_CW_Contest_transceiver_with_teensy_4_1) - 
 - [ianm8/iDSB40](https://github.com/ianm8/iDSB40) - Double sideband transceiver with inverse audio for the 40m band.
@@ -67,6 +70,10 @@
 ## G-code 
 
 - [Carrot-collective/Blobifier](https://github.com/Carrot-collective/Blobifier) - 
+
+## Go 
+
+- [m0n0x41d/quint-code](https://github.com/m0n0x41d/quint-code) - Structured reasoning commands for Claude Code, Gemini, Cursor and Codex — hypothesis-driven decision making with auditable evidence trails
 
 ## HTML 
 
@@ -133,6 +140,7 @@
 
 ## Python 
 
+- [francescocozzi/hpsdr-udp-proxy](https://github.com/francescocozzi/hpsdr-udp-proxy) - High-performance UDP proxy/gateway for HPSDR protocol with authentication
 - [sb-ocr/ocreeb-mk-2](https://github.com/sb-ocr/ocreeb-mk-2) - Modular Macro Keyboard System
 - [LynxCrew/adxl345-probe](https://github.com/LynxCrew/adxl345-probe) - 
 - [MRX8024/accel-endstop](https://github.com/MRX8024/accel-endstop) - Klipper module for homing by accelerometer
@@ -151,9 +159,12 @@
 - [4Z1KD/omnipyrig](https://github.com/4Z1KD/omnipyrig) - A python wrapper for OmniRig
 - [roseengineering/crystalweb](https://github.com/roseengineering/crystalweb) - Measure a crystal using a Nanovna automatically
 
+## Rust 
+
+- [g0orx/rustyHPSDR](https://github.com/g0orx/rustyHPSDR) - Rust implementation of UI using OpenHPSDR Protocols 1 and 2
+
 ## Shell 
 
-- [m0n0x41d/quint-code](https://github.com/m0n0x41d/quint-code) - Structured reasoning commands for Claude Code, Gemini, Cursor and Codex — hypothesis-driven decision making with auditable evidence trails
 - [mhylle/claude-skills-collection](https://github.com/mhylle/claude-skills-collection) - Custom skills and agents for Claude Code - codebase research, context management, and implementation planning workflows
 - [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
 - [peterkrueck/Claude-Code-Development-Kit](https://github.com/peterkrueck/Claude-Code-Development-Kit) - Handle context at scale - my custom Claude Code workflow including hooks, mcp and sub agents
