@@ -9,15 +9,12 @@
 - [arduino](#arduino)
 - [cli](#cli)
 - [developer-tools](#developer-tools)
-- [documentation](#documentation)
-- [flutter](#flutter)
 - [frontend](#frontend)
 - [gui](#gui)
 - [iot](#iot)
 - [open-source](#open-source)
 - [others](#others)
 - [productivity](#productivity)
-- [project-management](#project-management)
 - [python](#python)
 - [robotics](#robotics)
 - [webapp](#webapp)
@@ -41,14 +38,6 @@
 
 - [m0n0x41d/quint-code](https://github.com/m0n0x41d/quint-code) - Structured reasoning framework for Claude Code, Gemini, Cursor, and Codex — hypothesis-driven decision making with auditable evidence trails
 
-## documentation 
-
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
-
-## flutter 
-
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
-
 ## frontend 
 
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
@@ -68,6 +57,10 @@
 
 ## others 
 
+- [sszczep/kicad-libraries](https://github.com/sszczep/kicad-libraries) - Set of symbols/footprints/models that I've created for my projects.
+- [s56a/CWExpert](https://github.com/s56a/CWExpert) - 
+- [F6ITU/Capacitive_coupler](https://github.com/F6ITU/Capacitive_coupler) - 
+- [F6ITU/1W_Amp](https://github.com/F6ITU/1W_Amp) - 1W /20 dB RF linear amp
 - [Tom-ak2b/Thetis_Touchscreen_MIDI_Controller](https://github.com/Tom-ak2b/Thetis_Touchscreen_MIDI_Controller) - Control Thetis  or deskHPSDR with your own Midi Controller
 - [g0orx/rustyHPSDR](https://github.com/g0orx/rustyHPSDR) - Rust implementation of UI using OpenHPSDR Protocols 1 and 2
 - [GoodEarthWeather/myKicadProjects](https://github.com/GoodEarthWeather/myKicadProjects) - Kicad Schematic and PCB Projects
@@ -162,10 +155,6 @@
 ## productivity 
 
 - [oxygen-fragment/claude-modular](https://github.com/oxygen-fragment/claude-modular) - Production-ready modular Claude Code framework with 30+ commands, token optimization, and MCP server integration. Achieves 2-10x productivity gains through   systematic command organization and hierar
-
-## project-management 
-
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 
 ## python 
 
