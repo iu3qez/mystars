@@ -25,6 +25,7 @@
 - [Tcl](#tcl)
 - [TypeScript](#typescript)
 - [Verilog](#verilog)
+- [Zig](#zig)
 
 ## AGS Script 
 
@@ -36,6 +37,7 @@
 
 ## C 
 
+- [bkero/hdjmod](https://github.com/bkero/hdjmod) - Hercules DJ Console kernel module forward porting
 - [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [sq8vps/vp-digi](https://github.com/sq8vps/vp-digi) - VP-Digi - a functional, cheap, easy to assemble and configure STM32-based APRS digipeater controller with built-in KISS modem.
 - [afiskon/hbr-mk2](https://github.com/afiskon/hbr-mk2) - All HF bands QRP CW/SSB transceiver
@@ -188,6 +190,10 @@
 ## Verilog 
 
 - [n1gp/Anvelina_PROIII](https://github.com/n1gp/Anvelina_PROIII) - Anvelina_PROIII SDR Protocol 2 Source Code
+
+## Zig 
+
+- [cs-t1/hd-mp3](https://github.com/cs-t1/hd-mp3) - HID driver for the Hercules DJ Control MP3 controller with support for advanced LED blinking and button on-update methods
 
 
 ## License
