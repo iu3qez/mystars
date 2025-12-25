@@ -19,6 +19,7 @@
 - [robotics](#robotics)
 - [webapp](#webapp)
 - [website](#website)
+- [zig](#zig)
 
 ## ai-agents 
 
@@ -57,6 +58,7 @@
 
 ## others 
 
+- [bkero/hdjmod](https://github.com/bkero/hdjmod) - Hercules DJ Console kernel module forward porting
 - [sszczep/kicad-libraries](https://github.com/sszczep/kicad-libraries) - Set of symbols/footprints/models that I've created for my projects.
 - [s56a/CWExpert](https://github.com/s56a/CWExpert) - 
 - [F6ITU/Capacitive_coupler](https://github.com/F6ITU/Capacitive_coupler) - 
@@ -172,6 +174,10 @@
 ## website 
 
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
+
+## zig 
+
+- [cs-t1/hd-mp3](https://github.com/cs-t1/hd-mp3) - HID driver for the Hercules DJ Control MP3 controller with support for advanced LED blinking and button on-update methods
 
 
 ## License
