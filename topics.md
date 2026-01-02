@@ -12,11 +12,14 @@
 - [frontend](#frontend)
 - [gui](#gui)
 - [iot](#iot)
+- [nextjs](#nextjs)
 - [open-source](#open-source)
 - [others](#others)
 - [productivity](#productivity)
 - [python](#python)
+- [react-native](#react-native)
 - [robotics](#robotics)
+- [self-hosted](#self-hosted)
 - [webapp](#webapp)
 - [website](#website)
 - [zig](#zig)
@@ -51,6 +54,10 @@
 
 - [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [sh123/esp32_loraprs](https://github.com/sh123/esp32_loraprs) - LoRa ESP32 KISS Bluetooth modem (for APRSDroid or aprs.fi iOS) +  APRS-IS RX/TX iGate over WiFi + Digipeater + DV (with Codec2 Walkie-Talkie)
+
+## nextjs 
+
+- [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 
 ## open-source 
 
@@ -163,9 +170,17 @@
 - [francescocozzi/hpsdr-udp-proxy](https://github.com/francescocozzi/hpsdr-udp-proxy) - High-performance UDP proxy/gateway for HPSDR protocol with authentication
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 
+## react-native 
+
+- [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+
 ## robotics 
 
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
+
+## self-hosted 
+
+- [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 
 ## webapp 
 
