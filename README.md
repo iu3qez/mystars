@@ -19,7 +19,6 @@
 - [Others](#others)
 - [Pascal](#pascal)
 - [Python](#python)
-- [Rust](#rust)
 - [Shell](#shell)
 - [Swift](#swift)
 - [Tcl](#tcl)
@@ -38,6 +37,7 @@
 ## C 
 
 - [bkero/hdjmod](https://github.com/bkero/hdjmod) - Hercules DJ Console kernel module forward porting
+- [g0orx/rustyHPSDR](https://github.com/g0orx/rustyHPSDR) - Rust implementation of UI using OpenHPSDR Protocols 1 and 2
 - [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [sq8vps/vp-digi](https://github.com/sq8vps/vp-digi) - VP-Digi - a functional, cheap, easy to assemble and configure STM32-based APRS digipeater controller with built-in KISS modem.
 - [afiskon/hbr-mk2](https://github.com/afiskon/hbr-mk2) - All HF bands QRP CW/SSB transceiver
@@ -164,10 +164,6 @@
 - [jmharvey1/SdrCwXcvr](https://github.com/jmharvey1/SdrCwXcvr) - Project Files for 100W CW Transceiver. Includes both eagle board files and program files
 - [4Z1KD/omnipyrig](https://github.com/4Z1KD/omnipyrig) - A python wrapper for OmniRig
 - [roseengineering/crystalweb](https://github.com/roseengineering/crystalweb) - Measure a crystal using a Nanovna automatically
-
-## Rust 
-
-- [g0orx/rustyHPSDR](https://github.com/g0orx/rustyHPSDR) - Rust implementation of UI using OpenHPSDR Protocols 1 and 2
 
 ## Shell 
 
