@@ -144,6 +144,7 @@
 
 ## Python 
 
+- [bytebang/qsl-labels](https://github.com/bytebang/qsl-labels) - QSL Label Generator for ADIF Logs (Brother QL-700)
 - [sszczep/kicad-libraries](https://github.com/sszczep/kicad-libraries) - Set of symbols/footprints/models that I've created for my projects.
 - [francescocozzi/hpsdr-udp-proxy](https://github.com/francescocozzi/hpsdr-udp-proxy) - High-performance UDP proxy/gateway for HPSDR protocol with authentication
 - [sb-ocr/ocreeb-mk-2](https://github.com/sb-ocr/ocreeb-mk-2) - Modular Macro Keyboard System
