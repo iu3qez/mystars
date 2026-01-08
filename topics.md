@@ -16,6 +16,7 @@
 - [open-source](#open-source)
 - [others](#others)
 - [productivity](#productivity)
+- [prompt-engineering](#prompt-engineering)
 - [python](#python)
 - [react-native](#react-native)
 - [robotics](#robotics)
@@ -65,6 +66,7 @@
 
 ## others 
 
+- [bytebang/qsl-labels](https://github.com/bytebang/qsl-labels) - QSL Label Generator for ADIF Logs (Brother QL-700)
 - [bkero/hdjmod](https://github.com/bkero/hdjmod) - Hercules DJ Console kernel module forward porting
 - [sszczep/kicad-libraries](https://github.com/sszczep/kicad-libraries) - Set of symbols/footprints/models that I've created for my projects.
 - [s56a/CWExpert](https://github.com/s56a/CWExpert) - 
@@ -164,6 +166,10 @@
 ## productivity 
 
 - [oxygen-fragment/claude-modular](https://github.com/oxygen-fragment/claude-modular) - Production-ready modular Claude Code framework with 30+ commands, token optimization, and MCP server integration. Achieves 2-10x productivity gains through   systematic command organization and hierar
+
+## prompt-engineering 
+
+- [m0n0x41d/quint-code](https://github.com/m0n0x41d/quint-code) - Structured reasoning framework for Claude Code, Gemini, Cursor, and Codex — hypothesis-driven decision making with auditable evidence trails
 
 ## python 
 
