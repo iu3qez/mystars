@@ -66,7 +66,7 @@
 
 ## others 
 
-- [greenlava82/K1GLV-WavelogApp](https://github.com/greenlava82/K1GLV-WavelogApp) - Ham Radio Contact logging interface for Wavelog
+- [greenlava82/WavelogPortable](https://github.com/greenlava82/WavelogPortable) - Ham Radio Contact logging interface for Wavelog
 - [bytebang/qsl-labels](https://github.com/bytebang/qsl-labels) - QSL Label Generator for ADIF Logs (Brother QL-700)
 - [bkero/hdjmod](https://github.com/bkero/hdjmod) - Hercules DJ Console kernel module forward porting
 - [sszczep/kicad-libraries](https://github.com/sszczep/kicad-libraries) - Set of symbols/footprints/models that I've created for my projects.
