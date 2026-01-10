@@ -72,7 +72,7 @@
 
 ## Dart 
 
-- [greenlava82/K1GLV-WavelogApp](https://github.com/greenlava82/K1GLV-WavelogApp) - Ham Radio Contact logging interface for Wavelog
+- [greenlava82/WavelogPortable](https://github.com/greenlava82/WavelogPortable) - Ham Radio Contact logging interface for Wavelog
 
 ## G-code 
 
