@@ -12,6 +12,7 @@
 - [frontend](#frontend)
 - [gui](#gui)
 - [iot](#iot)
+- [mcp](#mcp)
 - [nextjs](#nextjs)
 - [open-source](#open-source)
 - [others](#others)
@@ -55,6 +56,10 @@
 
 - [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [sh123/esp32_loraprs](https://github.com/sh123/esp32_loraprs) - LoRa ESP32 KISS Bluetooth modem (for APRSDroid or aprs.fi iOS) +  APRS-IS RX/TX iGate over WiFi + Digipeater + DV (with Codec2 Walkie-Talkie)
+
+## mcp 
+
+- [parcadei/Continuous-Claude-v3](https://github.com/parcadei/Continuous-Claude-v3) - Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.
 
 ## nextjs 
 
