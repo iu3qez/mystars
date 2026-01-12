@@ -149,6 +149,7 @@
 
 ## Python 
 
+- [parcadei/Continuous-Claude-v3](https://github.com/parcadei/Continuous-Claude-v3) - Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.
 - [bytebang/qsl-labels](https://github.com/bytebang/qsl-labels) - QSL Label Generator for ADIF Logs (Brother QL-700)
 - [sszczep/kicad-libraries](https://github.com/sszczep/kicad-libraries) - Set of symbols/footprints/models that I've created for my projects.
 - [francescocozzi/hpsdr-udp-proxy](https://github.com/francescocozzi/hpsdr-udp-proxy) - High-performance UDP proxy/gateway for HPSDR protocol with authentication
