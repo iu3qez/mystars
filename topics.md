@@ -98,7 +98,7 @@
 - [kachurovskiy/modulathe](https://github.com/kachurovskiy/modulathe) - Modular metal lathe made of CNC and 3D-printed parts
 - [Monolith3D/Monolith_Gantry](https://github.com/Monolith3D/Monolith_Gantry) - Performance-oriented, configurable gantry platform for Voron 2.4 and Trident.
 - [DW-Tas/EMU](https://github.com/DW-Tas/EMU) - The [E]xpandable [M]ulti-material [U]nit.
-- [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [peterkrueck/Claude-Code-Development-Kit](https://github.com/peterkrueck/Claude-Code-Development-Kit) - Handle context at scale - my custom Claude Code workflow including hooks, mcp and sub agents
 - [knavillus1/codex_bootstrap](https://github.com/knavillus1/codex_bootstrap) - A minimal OpenAI Codex Agent repo demonstrating environment setup script and AGENTS.md handling
 - [k1zmt/PhilsLibraries](https://github.com/k1zmt/PhilsLibraries) - KiCAD symbols, footprints and packages for ham-radio. SWR bridge, T50 toroids, BN-baluns, Si5351, OLED etc.
