@@ -14,6 +14,7 @@
 - [G-code](#g-code)
 - [Go](#go)
 - [HTML](#html)
+- [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [KiCad Layout](#kicad-layout)
 - [OpenSCAD](#openscad)
@@ -95,6 +96,10 @@
 - [ealex/protection_BQ7790522PWR](https://github.com/ealex/protection_BQ7790522PWR) - 3-5 cell protection board based on BQ7790522PWR from TI
 - [m5evt/Firecrest](https://github.com/m5evt/Firecrest) - Portable, compact dual band CW transceiver
 - [AshleyF/didahdit.com](https://github.com/AshleyF/didahdit.com) - Morse Code site
+
+## JavaScript 
+
+- [madpsy/ka9q_ubersdr](https://github.com/madpsy/ka9q_ubersdr) - WebSDR for ka9q-radio
 
 ## Jupyter Notebook 
 
