@@ -71,6 +71,7 @@
 
 ## others 
 
+- [madpsy/ka9q_ubersdr](https://github.com/madpsy/ka9q_ubersdr) - WebSDR for ka9q-radio
 - [greenlava82/WavelogPortable](https://github.com/greenlava82/WavelogPortable) - Ham Radio Contact logging interface for Wavelog
 - [bytebang/qsl-labels](https://github.com/bytebang/qsl-labels) - QSL Label Generator for ADIF Logs (Brother QL-700)
 - [bkero/hdjmod](https://github.com/bkero/hdjmod) - Hercules DJ Console kernel module forward porting
