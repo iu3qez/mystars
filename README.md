@@ -122,7 +122,6 @@
 - [werediver/mic](https://github.com/werediver/mic) - A phantom-powered balanced electret microphone interface
 - [kachurovskiy/modulathe](https://github.com/kachurovskiy/modulathe) - Modular metal lathe made of CNC and 3D-printed parts
 - [Monolith3D/Monolith_Gantry](https://github.com/Monolith3D/Monolith_Gantry) - Performance-oriented, configurable gantry platform for Voron 2.4 and Trident.
-- [DW-Tas/EMU](https://github.com/DW-Tas/EMU) - The [E]xpandable [M]ulti-material [U]nit.
 - [oxygen-fragment/claude-modular](https://github.com/oxygen-fragment/claude-modular) - Production-ready modular Claude Code framework with 30+ commands, token optimization, and MCP server integration. Achieves 2-10x productivity gains through   systematic command organization and hierar
 - [k1zmt/PhilsLibraries](https://github.com/k1zmt/PhilsLibraries) - KiCAD symbols, footprints and packages for ham-radio. SWR bridge, T50 toroids, BN-baluns, Si5351, OLED etc.
 - [umcu7tcoillab/EMI-probes](https://github.com/umcu7tcoillab/EMI-probes) - Open PCB designs for EMI probes. H-field and E-field.
@@ -166,6 +165,7 @@
 - [Staacks/inkkeys](https://github.com/Staacks/inkkeys) - https://there.oughta.be/a/macro-keyboard
 - [HammerCreativeLLC/statistical-cw-decoder](https://github.com/HammerCreativeLLC/statistical-cw-decoder) - Real-time Morse Code decoder using K-Means clustering for automatic timing calibration
 - [Xpra-org/xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
+- [DW-Tas/EMU](https://github.com/DW-Tas/EMU) - The [E]xpandable [M]ulti-material [U]nit.
 - [vvuk/eddy-ng](https://github.com/vvuk/eddy-ng) - 
 - [ukagit/iambic-keyer](https://github.com/ukagit/iambic-keyer) - iambic-keyer-rp2040
 - [lumascet/pyrigol](https://github.com/lumascet/pyrigol) - Python Rigol DS1054Z and  DG800/DG900 control and measurement classes
