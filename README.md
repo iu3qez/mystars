@@ -47,7 +47,7 @@
 - [aljazblatnik/Spectrum-analyzer](https://github.com/aljazblatnik/Spectrum-analyzer) - 
 - [Squalius-cephalus/silli41](https://github.com/Squalius-cephalus/silli41) - 41-key column staggered keyboard
 - [righthalfplane/SdrGlut](https://github.com/righthalfplane/SdrGlut) - SdrGlut is a simple software defined radio - using glut and glui for its interface
-- [dl1bz/deskhpsdr](https://github.com/dl1bz/deskhpsdr) - SDR App for HPSDR (old and new) protocol and Soapy-API (macOS and Linux)
+- [dl1bz/deskhpsdr](https://github.com/dl1bz/deskhpsdr) - SDR App for OpenHPSDR protocol 1 & 2 (macOS and Linux)
 - [isomer/ax25embed](https://github.com/isomer/ax25embed) - 
 - [fventuri/DFC-transceiver](https://github.com/fventuri/DFC-transceiver) - DFC transceiver
 - [ka6s/rp16a](https://github.com/ka6s/rp16a) - This is version 1.3 of the rp16a Red Pitaya Shield.  This is an enhancment over the rp_adapter in several ways.  The design adds 10db and 20db attenuation. It has interfaces for both Alex filtering an
