@@ -67,7 +67,7 @@
 
 ## open-source 
 
-- [dl1bz/deskhpsdr](https://github.com/dl1bz/deskhpsdr) - SDR App for HPSDR (old and new) protocol and Soapy-API (macOS and Linux)
+- [dl1bz/deskhpsdr](https://github.com/dl1bz/deskhpsdr) - SDR App for OpenHPSDR protocol 1 & 2 (macOS and Linux)
 
 ## others 
 
