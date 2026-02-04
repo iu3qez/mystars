@@ -5,10 +5,7 @@
 
 ## Contents
 
-- [ai-agents](#ai-agents)
 - [arduino](#arduino)
-- [cli](#cli)
-- [developer-tools](#developer-tools)
 - [frontend](#frontend)
 - [gui](#gui)
 - [iot](#iot)
@@ -17,7 +14,6 @@
 - [open-source](#open-source)
 - [others](#others)
 - [productivity](#productivity)
-- [prompt-engineering](#prompt-engineering)
 - [python](#python)
 - [react-native](#react-native)
 - [robotics](#robotics)
@@ -26,23 +22,11 @@
 - [website](#website)
 - [zig](#zig)
 
-## ai-agents 
-
-- [m0n0x41d/quint-code](https://github.com/m0n0x41d/quint-code) - Structured reasoning framework for Claude Code, Gemini, Cursor, and Codex — hypothesis-driven decision making with auditable evidence trails
-
 ## arduino 
 
 - [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [sh123/nano_power_meter](https://github.com/sh123/nano_power_meter) - Dual channel Arduino Nano milliwatt power meter for HF/VHF/UHF/SHF bands
 - [tomwetjens/ArduinoEVSE](https://github.com/tomwetjens/ArduinoEVSE) - A simple EVSE (electric vehicle supply equipment or "wall charger") built using an Arduino and open source software.
-
-## cli 
-
-- [m0n0x41d/quint-code](https://github.com/m0n0x41d/quint-code) - Structured reasoning framework for Claude Code, Gemini, Cursor, and Codex — hypothesis-driven decision making with auditable evidence trails
-
-## developer-tools 
-
-- [m0n0x41d/quint-code](https://github.com/m0n0x41d/quint-code) - Structured reasoning framework for Claude Code, Gemini, Cursor, and Codex — hypothesis-driven decision making with auditable evidence trails
 
 ## frontend 
 
@@ -174,10 +158,6 @@
 ## productivity 
 
 - [oxygen-fragment/claude-modular](https://github.com/oxygen-fragment/claude-modular) - Production-ready modular Claude Code framework with 30+ commands, token optimization, and MCP server integration. Achieves 2-10x productivity gains through   systematic command organization and hierar
-
-## prompt-engineering 
-
-- [m0n0x41d/quint-code](https://github.com/m0n0x41d/quint-code) - Structured reasoning framework for Claude Code, Gemini, Cursor, and Codex — hypothesis-driven decision making with auditable evidence trails
 
 ## python 
 
