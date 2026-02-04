@@ -12,7 +12,6 @@
 - [C++](#c++)
 - [Dart](#dart)
 - [G-code](#g-code)
-- [Go](#go)
 - [HTML](#html)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -78,10 +77,6 @@
 ## G-code 
 
 - [Carrot-collective/Blobifier](https://github.com/Carrot-collective/Blobifier) - 
-
-## Go 
-
-- [m0n0x41d/quint-code](https://github.com/m0n0x41d/quint-code) - Structured reasoning framework for Claude Code, Gemini, Cursor, and Codex — hypothesis-driven decision making with auditable evidence trails
 
 ## HTML 
 
