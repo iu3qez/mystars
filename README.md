@@ -39,7 +39,6 @@
 
 - [bkero/hdjmod](https://github.com/bkero/hdjmod) - Hercules DJ Console kernel module forward porting
 - [g0orx/rustyHPSDR](https://github.com/g0orx/rustyHPSDR) - Rust implementation of UI using OpenHPSDR Protocols 1 and 2
-- [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [sq8vps/vp-digi](https://github.com/sq8vps/vp-digi) - VP-Digi - a functional, cheap, easy to assemble and configure STM32-based APRS digipeater controller with built-in KISS modem.
 - [afiskon/hbr-mk2](https://github.com/afiskon/hbr-mk2) - All HF bands QRP CW/SSB transceiver
 - [jankae/LCR](https://github.com/jankae/LCR) - Benchtop 100Hz to 200kHz LCR meter
@@ -62,6 +61,7 @@
 
 - [Tom-ak2b/Thetis_Touchscreen_MIDI_Controller](https://github.com/Tom-ak2b/Thetis_Touchscreen_MIDI_Controller) - Control Thetis  or deskHPSDR with your own Midi Controller
 - [AndunHH/spacemouse](https://github.com/AndunHH/spacemouse) - Repository for a 6 degree of freedom (DOF) mouse, which emulates a 3Dconnexion "Space Mouse Pro wireless". It is based on four joysticks with additional keys or an encoder
+- [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [gabrielonet/HF_CW_Contest_transceiver_with_teensy_4_1](https://github.com/gabrielonet/HF_CW_Contest_transceiver_with_teensy_4_1) - 
 - [ianm8/iDSB40](https://github.com/ianm8/iDSB40) - Double sideband transceiver with inverse audio for the 40m band.
 - [sh123/nano_power_meter](https://github.com/sh123/nano_power_meter) - Dual channel Arduino Nano milliwatt power meter for HF/VHF/UHF/SHF bands
@@ -94,6 +94,7 @@
 
 ## JavaScript 
 
+- [ergogen/ergogen](https://github.com/ergogen/ergogen) - Ergonomic keyboard layout generator
 - [madpsy/ka9q_ubersdr](https://github.com/madpsy/ka9q_ubersdr) - WebSDR for ka9q-radio
 
 ## Jupyter Notebook 
