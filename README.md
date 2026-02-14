@@ -149,6 +149,7 @@
 
 ## Python 
 
+- [Rev4nchist/Continuous-Claude-v3](https://github.com/Rev4nchist/Continuous-Claude-v3) - Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.
 - [Seeed-Studio/kicad-mcp-server](https://github.com/Seeed-Studio/kicad-mcp-server) - 🔌 MCP server for KiCad EDA - Analyze schematics & PCBs, trace pin-level connections, automate design editing. Works with any MCP-compatible AI tool
 - [tylerwagler/KiCad-MCP](https://github.com/tylerwagler/KiCad-MCP) - 
 - [afkiwers/inventree_kicad](https://github.com/afkiwers/inventree_kicad) - KiCad EDA conform API endpoint for KiCad's parts library tool. This plugin provides metadata only and requires matching symbol and footprint libraries within the KiCad EDA.
