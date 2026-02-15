@@ -94,6 +94,7 @@
 
 ## JavaScript 
 
+- [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [ergogen/ergogen](https://github.com/ergogen/ergogen) - Ergonomic keyboard layout generator
 - [madpsy/ka9q_ubersdr](https://github.com/madpsy/ka9q_ubersdr) - WebSDR for ka9q-radio
 
