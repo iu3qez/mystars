@@ -6,6 +6,7 @@
 ## Contents
 
 - [arduino](#arduino)
+- [cli](#cli)
 - [frontend](#frontend)
 - [gui](#gui)
 - [iot](#iot)
@@ -18,6 +19,7 @@
 - [react-native](#react-native)
 - [robotics](#robotics)
 - [self-hosted](#self-hosted)
+- [typescript](#typescript)
 - [webapp](#webapp)
 - [website](#website)
 - [zig](#zig)
@@ -27,6 +29,10 @@
 - [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [sh123/nano_power_meter](https://github.com/sh123/nano_power_meter) - Dual channel Arduino Nano milliwatt power meter for HF/VHF/UHF/SHF bands
 - [tomwetjens/ArduinoEVSE](https://github.com/tomwetjens/ArduinoEVSE) - A simple EVSE (electric vehicle supply equipment or "wall charger") built using an Arduino and open source software.
+
+## cli 
+
+- [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 
 ## frontend 
 
@@ -179,6 +185,10 @@
 ## self-hosted 
 
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+
+## typescript 
+
+- [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 
 ## webapp 
 
