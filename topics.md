@@ -61,6 +61,9 @@
 
 ## others 
 
+- [bbenchoff/OrthoRoute](https://github.com/bbenchoff/OrthoRoute) - OrthoRoute: A GPU-accelerated PCB autorouter for KiCad
+- [diodeinc/pcb](https://github.com/diodeinc/pcb) - PCB tooling by Diode Computers, Inc.
+- [gwall-ceres/circuit-synth](https://github.com/gwall-ceres/circuit-synth) - Better Boards, Faster!  Python-defined circuits with Claude Code as your intelligent design partner
 - [Rev4nchist/Continuous-Claude-v3](https://github.com/Rev4nchist/Continuous-Claude-v3) - Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.
 - [Seeed-Studio/kicad-mcp-server](https://github.com/Seeed-Studio/kicad-mcp-server) - 🔌 MCP server for KiCad EDA - Analyze schematics & PCBs, trace pin-level connections, automate design editing. Works with any MCP-compatible AI tool
 - [tylerwagler/KiCad-MCP](https://github.com/tylerwagler/KiCad-MCP) - 
