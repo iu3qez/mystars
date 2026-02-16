@@ -20,6 +20,7 @@
 - [Others](#others)
 - [Pascal](#pascal)
 - [Python](#python)
+- [Rust](#rust)
 - [Shell](#shell)
 - [Swift](#swift)
 - [Tcl](#tcl)
@@ -150,6 +151,8 @@
 
 ## Python 
 
+- [bbenchoff/OrthoRoute](https://github.com/bbenchoff/OrthoRoute) - OrthoRoute: A GPU-accelerated PCB autorouter for KiCad
+- [gwall-ceres/circuit-synth](https://github.com/gwall-ceres/circuit-synth) - Better Boards, Faster!  Python-defined circuits with Claude Code as your intelligent design partner
 - [Rev4nchist/Continuous-Claude-v3](https://github.com/Rev4nchist/Continuous-Claude-v3) - Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.
 - [Seeed-Studio/kicad-mcp-server](https://github.com/Seeed-Studio/kicad-mcp-server) - 🔌 MCP server for KiCad EDA - Analyze schematics & PCBs, trace pin-level connections, automate design editing. Works with any MCP-compatible AI tool
 - [tylerwagler/KiCad-MCP](https://github.com/tylerwagler/KiCad-MCP) - 
@@ -177,6 +180,10 @@
 - [jmharvey1/SdrCwXcvr](https://github.com/jmharvey1/SdrCwXcvr) - Project Files for 100W CW Transceiver. Includes both eagle board files and program files
 - [4Z1KD/omnipyrig](https://github.com/4Z1KD/omnipyrig) - A python wrapper for OmniRig
 - [roseengineering/crystalweb](https://github.com/roseengineering/crystalweb) - Measure a crystal using a Nanovna automatically
+
+## Rust 
+
+- [diodeinc/pcb](https://github.com/diodeinc/pcb) - PCB tooling by Diode Computers, Inc.
 
 ## Shell 
 
