@@ -61,6 +61,7 @@
 
 ## others 
 
+- [Steffen-W/easyeda2kicad.py](https://github.com/Steffen-W/easyeda2kicad.py) - Convert any LCSC components (including EasyEDA) to KiCad library
 - [bbenchoff/OrthoRoute](https://github.com/bbenchoff/OrthoRoute) - OrthoRoute: A GPU-accelerated PCB autorouter for KiCad
 - [diodeinc/pcb](https://github.com/diodeinc/pcb) - PCB tooling by Diode Computers, Inc.
 - [gwall-ceres/circuit-synth](https://github.com/gwall-ceres/circuit-synth) - Better Boards, Faster!  Python-defined circuits with Claude Code as your intelligent design partner
