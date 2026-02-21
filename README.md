@@ -177,7 +177,6 @@
 - [DanielStoelzner/RIGOL-DS1054Z-DG800-DG900-Bode-Plot](https://github.com/DanielStoelzner/RIGOL-DS1054Z-DG800-DG900-Bode-Plot) - 
 - [ifurusato/rp2040-i2c-slave-legacy](https://github.com/ifurusato/rp2040-i2c-slave-legacy) - A simple I2C slave implementation for the RP2040.
 - [gusmanb/logicanalyzer](https://github.com/gusmanb/logicanalyzer) - 24 channel, 100Msps logic analyzer hardware and software
-- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [jmharvey1/SdrCwXcvr](https://github.com/jmharvey1/SdrCwXcvr) - Project Files for 100W CW Transceiver. Includes both eagle board files and program files
 - [4Z1KD/omnipyrig](https://github.com/4Z1KD/omnipyrig) - A python wrapper for OmniRig
 - [roseengineering/crystalweb](https://github.com/roseengineering/crystalweb) - Measure a crystal using a Nanovna automatically
