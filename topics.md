@@ -7,8 +7,6 @@
 
 - [arduino](#arduino)
 - [cli](#cli)
-- [frontend](#frontend)
-- [gui](#gui)
 - [iot](#iot)
 - [mcp](#mcp)
 - [nextjs](#nextjs)
@@ -17,11 +15,8 @@
 - [productivity](#productivity)
 - [python](#python)
 - [react-native](#react-native)
-- [robotics](#robotics)
 - [self-hosted](#self-hosted)
 - [typescript](#typescript)
-- [webapp](#webapp)
-- [website](#website)
 - [zig](#zig)
 
 ## arduino 
@@ -33,14 +28,6 @@
 ## cli 
 
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
-
-## frontend 
-
-- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
-
-## gui 
-
-- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 
 ## iot 
 
@@ -176,15 +163,10 @@
 ## python 
 
 - [francescocozzi/hpsdr-udp-proxy](https://github.com/francescocozzi/hpsdr-udp-proxy) - High-performance UDP proxy/gateway for HPSDR protocol with authentication
-- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 
 ## react-native 
 
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
-
-## robotics 
-
-- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 
 ## self-hosted 
 
@@ -193,14 +175,6 @@
 ## typescript 
 
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
-
-## webapp 
-
-- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
-
-## website 
-
-- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 
 ## zig 
 
