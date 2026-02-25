@@ -113,6 +113,7 @@
 
 ## Others 
 
+- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude's frontend skills
 - [F6ITU/Capacitive_coupler](https://github.com/F6ITU/Capacitive_coupler) - 
 - [F6ITU/1W_Amp](https://github.com/F6ITU/1W_Amp) - 1W /20 dB RF linear amp
 - [GoodEarthWeather/myKicadProjects](https://github.com/GoodEarthWeather/myKicadProjects) - Kicad Schematic and PCB Projects
