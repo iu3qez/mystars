@@ -113,6 +113,7 @@
 
 ## Others 
 
+- [Armchair-Heavy-Industries/Xol-Toolhead](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead) - Xol Toolhead is the evolution of 'Mantis Xol 2'. Aimed at modularity and quality of life improvements for installation and serviceability. We have left the mantis carriage behind, and thus are now jus
 - [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude's frontend skills
 - [F6ITU/Capacitive_coupler](https://github.com/F6ITU/Capacitive_coupler) - 
 - [F6ITU/1W_Amp](https://github.com/F6ITU/1W_Amp) - 1W /20 dB RF linear amp
