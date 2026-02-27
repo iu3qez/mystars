@@ -48,6 +48,7 @@
 
 ## others 
 
+- [Armchair-Heavy-Industries/Xol-Toolhead](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead) - Xol Toolhead is the evolution of 'Mantis Xol 2'. Aimed at modularity and quality of life improvements for installation and serviceability. We have left the mantis carriage behind, and thus are now jus
 - [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude's frontend skills
 - [Steffen-W/easyeda2kicad.py](https://github.com/Steffen-W/easyeda2kicad.py) - Convert any LCSC components (including EasyEDA) to KiCad library
 - [bbenchoff/OrthoRoute](https://github.com/bbenchoff/OrthoRoute) - OrthoRoute: A GPU-accelerated PCB autorouter for KiCad
