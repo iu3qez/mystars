@@ -10,6 +10,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [CSS](#css)
 - [Dart](#dart)
 - [G-code](#g-code)
 - [HTML](#html)
@@ -71,6 +72,10 @@
 - [ea3igt/HL2-PA70](https://github.com/ea3igt/HL2-PA70) - 70W Power Amplifier for the Hermes-Lite 2.x
 - [sh123/esp32_loraprs](https://github.com/sh123/esp32_loraprs) - LoRa ESP32 KISS Bluetooth modem (for APRSDroid or aprs.fi iOS) +  APRS-IS RX/TX iGate over WiFi + Digipeater + DV (with Codec2 Walkie-Talkie)
 
+## CSS 
+
+- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude's frontend skills
+
 ## Dart 
 
 - [greenlava82/WavelogPortable](https://github.com/greenlava82/WavelogPortable) - Ham Radio Contact logging interface for Wavelog
@@ -114,7 +119,6 @@
 ## Others 
 
 - [Armchair-Heavy-Industries/Xol-Toolhead](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead) - Xol Toolhead is the evolution of 'Mantis Xol 2'. Aimed at modularity and quality of life improvements for installation and serviceability. We have left the mantis carriage behind, and thus are now jus
-- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude's frontend skills
 - [F6ITU/Capacitive_coupler](https://github.com/F6ITU/Capacitive_coupler) - 
 - [F6ITU/1W_Amp](https://github.com/F6ITU/1W_Amp) - 1W /20 dB RF linear amp
 - [GoodEarthWeather/myKicadProjects](https://github.com/GoodEarthWeather/myKicadProjects) - Kicad Schematic and PCB Projects
@@ -153,6 +157,7 @@
 
 ## Python 
 
+- [n4hy/AutoNVIS](https://github.com/n4hy/AutoNVIS) - 
 - [Steffen-W/easyeda2kicad.py](https://github.com/Steffen-W/easyeda2kicad.py) - Convert any LCSC components (including EasyEDA) to KiCad library
 - [bbenchoff/OrthoRoute](https://github.com/bbenchoff/OrthoRoute) - OrthoRoute: A GPU-accelerated PCB autorouter for KiCad
 - [gwall-ceres/circuit-synth](https://github.com/gwall-ceres/circuit-synth) - Better Boards, Faster!  Python-defined circuits with Claude Code as your intelligent design partner
