@@ -5,9 +5,12 @@
 
 ## Contents
 
+- [ai](#ai)
 - [arduino](#arduino)
+- [chatgpt](#chatgpt)
 - [cli](#cli)
 - [iot](#iot)
+- [llm](#llm)
 - [mcp](#mcp)
 - [nextjs](#nextjs)
 - [open-source](#open-source)
@@ -19,11 +22,19 @@
 - [typescript](#typescript)
 - [zig](#zig)
 
+## ai 
+
+- [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
+
 ## arduino 
 
 - [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [sh123/nano_power_meter](https://github.com/sh123/nano_power_meter) - Dual channel Arduino Nano milliwatt power meter for HF/VHF/UHF/SHF bands
 - [tomwetjens/ArduinoEVSE](https://github.com/tomwetjens/ArduinoEVSE) - A simple EVSE (electric vehicle supply equipment or "wall charger") built using an Arduino and open source software.
+
+## chatgpt 
+
+- [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
 
 ## cli 
 
@@ -33,6 +44,10 @@
 
 - [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [sh123/esp32_loraprs](https://github.com/sh123/esp32_loraprs) - LoRa ESP32 KISS Bluetooth modem (for APRSDroid or aprs.fi iOS) +  APRS-IS RX/TX iGate over WiFi + Digipeater + DV (with Codec2 Walkie-Talkie)
+
+## llm 
+
+- [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
 
 ## mcp 
 
@@ -48,6 +63,7 @@
 
 ## others 
 
+- [0xMH/fichero-printer](https://github.com/0xMH/fichero-printer) - Fichero D11s thermal label printer - BLE protocol reverse engineering and Python CLI tool
 - [Armchair-Heavy-Industries/A4T](https://github.com/Armchair-Heavy-Industries/A4T) - [A]nother [4]010 [T]oolhead. A toolhead for Voron front rail printers built around 4010 blower fans, efficient ducts, and easy assembly.
 - [n4hy/AutoNVIS](https://github.com/n4hy/AutoNVIS) - 
 - [Armchair-Heavy-Industries/Xol-Toolhead](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead) - Xol Toolhead is the evolution of 'Mantis Xol 2'. Aimed at modularity and quality of life improvements for installation and serviceability. We have left the mantis carriage behind, and thus are now jus
