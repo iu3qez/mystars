@@ -13,6 +13,7 @@
 - [CSS](#css)
 - [Dart](#dart)
 - [G-code](#g-code)
+- [Go](#go)
 - [HTML](#html)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -83,6 +84,10 @@
 ## G-code 
 
 - [Carrot-collective/Blobifier](https://github.com/Carrot-collective/Blobifier) - 
+
+## Go 
+
+- [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
 
 ## HTML 
 
@@ -209,6 +214,7 @@
 
 ## TypeScript 
 
+- [0xMH/fichero-printer](https://github.com/0xMH/fichero-printer) - Fichero D11s thermal label printer - BLE protocol reverse engineering and Python CLI tool
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [iqnite/rbn-pal](https://github.com/iqnite/rbn-pal) - A browser extension that enhances the user experience on the Reverse Beacon Network.
 
