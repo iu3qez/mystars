@@ -62,6 +62,7 @@
 
 ## others 
 
+- [ClariSortAi/openclaw-manager-plugin](https://github.com/ClariSortAi/openclaw-manager-plugin) - Claude Code plugin for intelligent OpenClaw installation, configuration, and management
 - [F6ITU/K_Driver](https://github.com/F6ITU/K_Driver) - Ajax Telamon, 10 to 33 dBm driver to feed LDMOS RF amplifier
 - [0xMH/fichero-printer](https://github.com/0xMH/fichero-printer) - Fichero D11s thermal label printer - BLE protocol reverse engineering and Python CLI tool
 - [Armchair-Heavy-Industries/A4T](https://github.com/Armchair-Heavy-Industries/A4T) - [A]nother [4]010 [T]oolhead. A toolhead for Voron front rail printers built around 4010 blower fans, efficient ducts, and easy assembly.
