@@ -6,7 +6,9 @@
 ## Contents
 
 - [ai](#ai)
+- [ai-agents](#ai-agents)
 - [arduino](#arduino)
+- [automation](#automation)
 - [chatgpt](#chatgpt)
 - [cli](#cli)
 - [iot](#iot)
@@ -24,13 +26,22 @@
 
 ## ai 
 
+- [littlebearapps/outlook-assistant](https://github.com/littlebearapps/outlook-assistant) - MCP server for Outlook email, calendar, and contacts — let your AI assistant manage your inbox directly from the conversation.
 - [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
+
+## ai-agents 
+
+- [littlebearapps/outlook-assistant](https://github.com/littlebearapps/outlook-assistant) - MCP server for Outlook email, calendar, and contacts — let your AI assistant manage your inbox directly from the conversation.
 
 ## arduino 
 
 - [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [sh123/nano_power_meter](https://github.com/sh123/nano_power_meter) - Dual channel Arduino Nano milliwatt power meter for HF/VHF/UHF/SHF bands
 - [tomwetjens/ArduinoEVSE](https://github.com/tomwetjens/ArduinoEVSE) - A simple EVSE (electric vehicle supply equipment or "wall charger") built using an Arduino and open source software.
+
+## automation 
+
+- [littlebearapps/outlook-assistant](https://github.com/littlebearapps/outlook-assistant) - MCP server for Outlook email, calendar, and contacts — let your AI assistant manage your inbox directly from the conversation.
 
 ## chatgpt 
 
@@ -46,10 +57,12 @@
 
 ## llm 
 
+- [littlebearapps/outlook-assistant](https://github.com/littlebearapps/outlook-assistant) - MCP server for Outlook email, calendar, and contacts — let your AI assistant manage your inbox directly from the conversation.
 - [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
 
 ## mcp 
 
+- [littlebearapps/outlook-assistant](https://github.com/littlebearapps/outlook-assistant) - MCP server for Outlook email, calendar, and contacts — let your AI assistant manage your inbox directly from the conversation.
 - [parcadei/Continuous-Claude-v3](https://github.com/parcadei/Continuous-Claude-v3) - Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.
 
 ## nextjs 
@@ -62,6 +75,7 @@
 
 ## others 
 
+- [HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam) - ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)
 - [WB2CBA/ADX](https://github.com/WB2CBA/ADX) - ADX - Arduino Digital Modes HF Transceiver
 - [ClariSortAi/openclaw-manager-plugin](https://github.com/ClariSortAi/openclaw-manager-plugin) - Claude Code plugin for intelligent OpenClaw installation, configuration, and management
 - [F6ITU/K_Driver](https://github.com/F6ITU/K_Driver) - Ajax Telamon, 10 to 33 dBm driver to feed LDMOS RF amplifier
@@ -180,6 +194,7 @@
 
 ## productivity 
 
+- [littlebearapps/outlook-assistant](https://github.com/littlebearapps/outlook-assistant) - MCP server for Outlook email, calendar, and contacts — let your AI assistant manage your inbox directly from the conversation.
 - [oxygen-fragment/claude-modular](https://github.com/oxygen-fragment/claude-modular) - Production-ready modular Claude Code framework with 30+ commands, token optimization, and MCP server integration. Achieves 2-10x productivity gains through   systematic command organization and hierar
 
 ## python 
