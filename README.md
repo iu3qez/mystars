@@ -10,7 +10,6 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
-- [CSS](#css)
 - [Dart](#dart)
 - [G-code](#g-code)
 - [Go](#go)
@@ -72,10 +71,6 @@
 - [AndrewBCN/STM32-GPSDO](https://github.com/AndrewBCN/STM32-GPSDO) - An experimental GPSDO using an STM32 MCU and a u-blox Neo-M8 GNSS module.
 - [ea3igt/HL2-PA70](https://github.com/ea3igt/HL2-PA70) - 70W Power Amplifier for the Hermes-Lite 2.x
 - [sh123/esp32_loraprs](https://github.com/sh123/esp32_loraprs) - LoRa ESP32 KISS Bluetooth modem (for APRSDroid or aprs.fi iOS) +  APRS-IS RX/TX iGate over WiFi + Digipeater + DV (with Codec2 Walkie-Talkie)
-
-## CSS 
-
-- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude's frontend skills
 
 ## Dart 
 
@@ -205,6 +200,7 @@
 
 ## Shell 
 
+- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude's frontend skills
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [peterkrueck/Claude-Code-Development-Kit](https://github.com/peterkrueck/Claude-Code-Development-Kit) - Handle context at scale - my custom Claude Code workflow including hooks, mcp and sub agents
 - [knavillus1/codex_bootstrap](https://github.com/knavillus1/codex_bootstrap) - A minimal OpenAI Codex Agent repo demonstrating environment setup script and AGENTS.md handling
