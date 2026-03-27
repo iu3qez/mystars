@@ -75,6 +75,7 @@
 
 ## others 
 
+- [ArmanJR/claudebox](https://github.com/ArmanJR/claudebox) - Full Claude agent, completely contained, one command.
 - [HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam) - ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)
 - [WB2CBA/ADX](https://github.com/WB2CBA/ADX) - ADX - Arduino Digital Modes HF Transceiver
 - [ClariSortAi/openclaw-manager-plugin](https://github.com/ClariSortAi/openclaw-manager-plugin) - Claude Code plugin for intelligent OpenClaw installation, configuration, and management
