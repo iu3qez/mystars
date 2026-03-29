@@ -19,6 +19,7 @@
 - [KiCad Layout](#kicad-layout)
 - [OpenSCAD](#openscad)
 - [Others](#others)
+- [PHP](#php)
 - [Pascal](#pascal)
 - [Python](#python)
 - [Rust](#rust)
@@ -155,6 +156,10 @@
 - [kylekrieg/CW-Wars](https://github.com/kylekrieg/CW-Wars) - Head to head competition CW software with a spectator dashboard for streaming live CW wars for ham radio.
 - [v6cl/MyDIYthings](https://github.com/v6cl/MyDIYthings) - My 3D Printer MODs.
 - [VK6NX/Remote_ATU](https://github.com/VK6NX/Remote_ATU) - Remote_ATU
+
+## PHP 
+
+- [wavelog/wavelog](https://github.com/wavelog/wavelog) - Webbased Amateur Radio Logging Software - Log your contacts from everywhere!
 
 ## Pascal 
 
