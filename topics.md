@@ -7,6 +7,7 @@
 
 - [ai](#ai)
 - [ai-agents](#ai-agents)
+- [analytics](#analytics)
 - [arduino](#arduino)
 - [automation](#automation)
 - [chatgpt](#chatgpt)
@@ -22,6 +23,8 @@
 - [react-native](#react-native)
 - [self-hosted](#self-hosted)
 - [typescript](#typescript)
+- [web](#web)
+- [webapp](#webapp)
 - [zig](#zig)
 
 ## ai 
@@ -32,6 +35,10 @@
 ## ai-agents 
 
 - [littlebearapps/outlook-assistant](https://github.com/littlebearapps/outlook-assistant) - MCP server for Outlook email, calendar, and contacts — let your AI assistant manage your inbox directly from the conversation.
+
+## analytics 
+
+- [wavelog/wavelog](https://github.com/wavelog/wavelog) - Webbased Amateur Radio Logging Software - Log your contacts from everywhere!
 
 ## arduino 
 
@@ -208,11 +215,20 @@
 
 ## self-hosted 
 
+- [wavelog/wavelog](https://github.com/wavelog/wavelog) - Webbased Amateur Radio Logging Software - Log your contacts from everywhere!
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 
 ## typescript 
 
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
+
+## web 
+
+- [wavelog/wavelog](https://github.com/wavelog/wavelog) - Webbased Amateur Radio Logging Software - Log your contacts from everywhere!
+
+## webapp 
+
+- [wavelog/wavelog](https://github.com/wavelog/wavelog) - Webbased Amateur Radio Logging Software - Log your contacts from everywhere!
 
 ## zig 
 
