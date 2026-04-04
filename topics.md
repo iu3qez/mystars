@@ -12,6 +12,7 @@
 - [automation](#automation)
 - [chatgpt](#chatgpt)
 - [cli](#cli)
+- [esp32](#esp32)
 - [iot](#iot)
 - [llm](#llm)
 - [mcp](#mcp)
@@ -57,6 +58,11 @@
 ## cli 
 
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
+
+## esp32 
+
+- [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
+- [sh123/esp32_loraprs](https://github.com/sh123/esp32_loraprs) - LoRa ESP32 KISS Bluetooth modem (for APRSDroid or aprs.fi iOS) +  APRS-IS RX/TX iGate over WiFi + Digipeater + DV (with Codec2 Walkie-Talkie)
 
 ## iot 
 
