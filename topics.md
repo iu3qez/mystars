@@ -89,7 +89,7 @@
 ## others 
 
 - [ArmanJR/claudebox](https://github.com/ArmanJR/claudebox) - Full Claude agent, completely contained, one command.
-- [HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam) - ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)
+- [HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam) - "ClawTeam: Agent Swarm Intelligence" (One Command → Full Automation)
 - [WB2CBA/ADX](https://github.com/WB2CBA/ADX) - ADX - Arduino Digital Modes HF Transceiver
 - [ClariSortAi/openclaw-manager-plugin](https://github.com/ClariSortAi/openclaw-manager-plugin) - Claude Code plugin for intelligent OpenClaw installation, configuration, and management
 - [F6ITU/K_Driver](https://github.com/F6ITU/K_Driver) - Ajax Telamon, 10 to 33 dBm driver to feed LDMOS RF amplifier
