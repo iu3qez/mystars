@@ -13,6 +13,7 @@
 - [chatgpt](#chatgpt)
 - [claude-code](#claude-code)
 - [cli](#cli)
+- [cms](#cms)
 - [esp32](#esp32)
 - [iot](#iot)
 - [llm](#llm)
@@ -24,6 +25,7 @@
 - [python](#python)
 - [react-native](#react-native)
 - [self-hosted](#self-hosted)
+- [sqlite](#sqlite)
 - [typescript](#typescript)
 - [web](#web)
 - [webapp](#webapp)
@@ -66,6 +68,10 @@
 ## cli 
 
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
+
+## cms 
+
+- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 
 ## esp32 
 
@@ -222,6 +228,7 @@
 
 ## python 
 
+- [AI3I/pyCluster](https://github.com/AI3I/pyCluster) - Modern DX cluster core with telnet, public web UI, sysop console, SQLite persistence, and DXSpider-compatible node linking
 - [francescocozzi/hpsdr-udp-proxy](https://github.com/francescocozzi/hpsdr-udp-proxy) - High-performance UDP proxy/gateway for HPSDR protocol with authentication
 
 ## react-native 
@@ -233,8 +240,13 @@
 - [wavelog/wavelog](https://github.com/wavelog/wavelog) - Webbased Amateur Radio Logging Software - Log your contacts from everywhere!
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 
+## sqlite 
+
+- [AI3I/pyCluster](https://github.com/AI3I/pyCluster) - Modern DX cluster core with telnet, public web UI, sysop console, SQLite persistence, and DXSpider-compatible node linking
+
 ## typescript 
 
+- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 
 ## web 
