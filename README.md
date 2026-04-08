@@ -21,6 +21,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
+- [Perl](#perl)
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -165,6 +166,10 @@
 
 - [scivision/radioutils-pascal](https://github.com/scivision/radioutils-pascal) - (Ham) radio utilities in Pascal by G4FGQ
 
+## Perl 
+
+- [AI3I/pyCluster](https://github.com/AI3I/pyCluster) - Modern DX cluster core with telnet, public web UI, sysop console, SQLite persistence, and DXSpider-compatible node linking
+
 ## Python 
 
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
@@ -222,6 +227,7 @@
 
 ## TypeScript 
 
+- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [0xMH/fichero-printer](https://github.com/0xMH/fichero-printer) - Fichero D11s thermal label printer - BLE protocol reverse engineering and Python CLI tool
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [iqnite/rbn-pal](https://github.com/iqnite/rbn-pal) - A browser extension that enhances the user experience on the Reverse Beacon Network.
