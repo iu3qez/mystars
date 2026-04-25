@@ -15,6 +15,7 @@
 - [cli](#cli)
 - [cms](#cms)
 - [esp32](#esp32)
+- [html](#html)
 - [iot](#iot)
 - [llm](#llm)
 - [mcp](#mcp)
@@ -61,6 +62,7 @@
 ## claude-code 
 
 - [littlebearapps/outlook-assistant](https://github.com/littlebearapps/outlook-assistant) - MCP server for Outlook email, calendar, and contacts — let your AI assistant manage your inbox directly from the conversation.
+- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude's frontend skills
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [parcadei/Continuous-Claude-v3](https://github.com/parcadei/Continuous-Claude-v3) - Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.
 - [oxygen-fragment/claude-modular](https://github.com/oxygen-fragment/claude-modular) - Production-ready modular Claude Code framework with 30+ commands, token optimization, and MCP server integration. Achieves 2-10x productivity gains through   systematic command organization and hierar
@@ -77,6 +79,10 @@
 
 - [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [sh123/esp32_loraprs](https://github.com/sh123/esp32_loraprs) - LoRa ESP32 KISS Bluetooth modem (for APRSDroid or aprs.fi iOS) +  APRS-IS RX/TX iGate over WiFi + Digipeater + DV (with Codec2 Walkie-Talkie)
+
+## html 
+
+- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude's frontend skills
 
 ## iot 
 
@@ -111,7 +117,6 @@
 - [Armchair-Heavy-Industries/A4T](https://github.com/Armchair-Heavy-Industries/A4T) - [A]nother [4]010 [T]oolhead. A toolhead for Voron front rail printers built around 4010 blower fans, efficient ducts, and easy assembly.
 - [n4hy/AutoNVIS](https://github.com/n4hy/AutoNVIS) - 
 - [Armchair-Heavy-Industries/Xol-Toolhead](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead) - Xol Toolhead is the evolution of 'Mantis Xol 2'. Aimed at modularity and quality of life improvements for installation and serviceability. We have left the mantis carriage behind, and thus are now jus
-- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude's frontend skills
 - [Steffen-W/easyeda2kicad.py](https://github.com/Steffen-W/easyeda2kicad.py) - Convert any LCSC components (including EasyEDA) to KiCad library
 - [bbenchoff/OrthoRoute](https://github.com/bbenchoff/OrthoRoute) - OrthoRoute: A GPU-accelerated PCB autorouter for KiCad
 - [diodeinc/pcb](https://github.com/diodeinc/pcb) - PCB tooling by Diode Computers, Inc.
