@@ -29,6 +29,7 @@
 - [Tcl](#tcl)
 - [TypeScript](#typescript)
 - [Verilog](#verilog)
+- [Visual Basic .NET](#visual-basic-.net)
 - [Zig](#zig)
 
 ## AGS Script 
@@ -234,6 +235,10 @@
 ## Verilog 
 
 - [n1gp/Anvelina_PROIII](https://github.com/n1gp/Anvelina_PROIII) - Anvelina_PROIII SDR Protocol 2 Source Code
+
+## Visual Basic .NET 
+
+- [kimmknight/remoteapptool](https://github.com/kimmknight/remoteapptool) - Create and manage RemoteApps hosted on Windows 7, 8, 10, 11, XP and Server. Generate RDP and MSI files for clients.
 
 ## Zig 
 
