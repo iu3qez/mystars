@@ -52,7 +52,7 @@
 
 ## arduino 
 
-- [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
+- [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [sh123/nano_power_meter](https://github.com/sh123/nano_power_meter) - Dual channel Arduino Nano milliwatt power meter for HF/VHF/UHF/SHF bands
 - [tomwetjens/ArduinoEVSE](https://github.com/tomwetjens/ArduinoEVSE) - A simple EVSE (electric vehicle supply equipment or "wall charger") built using an Arduino and open source software.
 
@@ -82,7 +82,7 @@
 
 ## esp32 
 
-- [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
+- [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [sh123/esp32_loraprs](https://github.com/sh123/esp32_loraprs) - LoRa ESP32 KISS Bluetooth modem (for APRSDroid or aprs.fi iOS) +  APRS-IS RX/TX iGate over WiFi + Digipeater + DV (with Codec2 Walkie-Talkie)
 
 ## html 
