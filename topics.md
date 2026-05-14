@@ -113,7 +113,7 @@
 
 ## others 
 
-- [brianbruff/openhpsdr-zeus](https://github.com/brianbruff/openhpsdr-zeus) - 
+- [Kb2uka/openhpsdr-zeus](https://github.com/Kb2uka/openhpsdr-zeus) - 
 - [boydsoftprez/NereusSDR](https://github.com/boydsoftprez/NereusSDR) - Cross-platform OpenHPSDR SDR console — Qt6 + C++20, GPU-accelerated waterfall, multi-panadapter, full WDSP DSP
 - [kimmknight/remoteapptool](https://github.com/kimmknight/remoteapptool) - Create and manage RemoteApps hosted on Windows 7, 8, 10, 11, XP and Server. Generate RDP and MSI files for clients.
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
