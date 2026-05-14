@@ -42,7 +42,7 @@
 
 ## C 
 
-- [brianbruff/openhpsdr-zeus](https://github.com/brianbruff/openhpsdr-zeus) - 
+- [Kb2uka/openhpsdr-zeus](https://github.com/Kb2uka/openhpsdr-zeus) - 
 - [bkero/hdjmod](https://github.com/bkero/hdjmod) - Hercules DJ Console kernel module forward porting
 - [g0orx/rustyHPSDR](https://github.com/g0orx/rustyHPSDR) - Rust implementation of UI using OpenHPSDR Protocols 1 and 2
 - [sq8vps/vp-digi](https://github.com/sq8vps/vp-digi) - VP-Digi - a functional, cheap, easy to assemble and configure STM32-based APRS digipeater controller with built-in KISS modem.
