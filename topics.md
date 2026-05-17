@@ -141,7 +141,6 @@
 - [sszczep/kicad-libraries](https://github.com/sszczep/kicad-libraries) - Set of symbols/footprints/models that I've created for my projects.
 - [s56a/CWExpert](https://github.com/s56a/CWExpert) - 
 - [F6ITU/Capacitive_coupler](https://github.com/F6ITU/Capacitive_coupler) - 
-- [F6ITU/1W_Amp](https://github.com/F6ITU/1W_Amp) - 1W /20 dB RF linear amp
 - [Tom-ak2b/Thetis_Touchscreen_MIDI_Controller](https://github.com/Tom-ak2b/Thetis_Touchscreen_MIDI_Controller) - Control Thetis  or deskHPSDR with your own Midi Controller
 - [g0orx/rustyHPSDR](https://github.com/g0orx/rustyHPSDR) - Rust implementation of UI using OpenHPSDR Protocols 1 and 2
 - [GoodEarthWeather/myKicadProjects](https://github.com/GoodEarthWeather/myKicadProjects) - Kicad Schematic and PCB Projects
