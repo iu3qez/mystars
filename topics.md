@@ -113,6 +113,7 @@
 
 ## others 
 
+- [ClusterM/open-bamboo-networking](https://github.com/ClusterM/open-bamboo-networking) - Open-source drop-in replacement for Bambu Studio's proprietary `bambu_networking` plugin.
 - [parcadei/ContinuousClaudeV4.7](https://github.com/parcadei/ContinuousClaudeV4.7) - Continuous Claude V4.7 - Autonomous Evolving Pipelines, RLMs, Cheaper Edits & Reads, Context Management.
 - [Kb2uka/openhpsdr-zeus](https://github.com/Kb2uka/openhpsdr-zeus) - 
 - [boydsoftprez/NereusSDR](https://github.com/boydsoftprez/NereusSDR) - Cross-platform OpenHPSDR SDR console — Qt6 + C++20, GPU-accelerated waterfall, multi-panadapter, full WDSP DSP
