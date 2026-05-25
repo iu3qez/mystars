@@ -93,6 +93,7 @@
 
 ## HTML 
 
+- [nfhw/tinycurrent](https://github.com/nfhw/tinycurrent) - tinyCurrent – a uCurrent Gold Clone/ Derivative
 - [WB2CBA/ADX](https://github.com/WB2CBA/ADX) - ADX - Arduino Digital Modes HF Transceiver
 - [F6ITU/K_Driver](https://github.com/F6ITU/K_Driver) - Ajax Telamon, 10 to 33 dBm driver to feed LDMOS RF amplifier
 - [ramphands/mic-pre](https://github.com/ramphands/mic-pre) - battery-powered ultra-small electret microphone preamp for synth/Monome Norns/field recording
