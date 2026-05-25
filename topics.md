@@ -91,6 +91,7 @@
 
 ## iot 
 
+- [nfhw/tinycurrent](https://github.com/nfhw/tinycurrent) - tinyCurrent – a uCurrent Gold Clone/ Derivative
 - [sh123/esp32_loraprs](https://github.com/sh123/esp32_loraprs) - LoRa ESP32 KISS Bluetooth modem (for APRSDroid or aprs.fi iOS) +  APRS-IS RX/TX iGate over WiFi + Digipeater + DV (with Codec2 Walkie-Talkie)
 
 ## llm 
