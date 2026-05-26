@@ -114,6 +114,7 @@
 
 ## others 
 
+- [F6ITU/vswr_meter](https://github.com/F6ITU/vswr_meter) - PD0LEW reflectometer fork
 - [Frix-x/baltobu-reverse-networking](https://github.com/Frix-x/baltobu-reverse-networking) - This project seeks to rewrite the libbbambu_networking.so, bambu_networking.dll, and libbambu_networking.dylib libraries by reverse engineering the AGPLv3'd binaries that Bambu Lab provided for Bambu 
 - [ClusterM/open-bamboo-networking](https://github.com/ClusterM/open-bamboo-networking) - Open-source drop-in replacement for Bambu Studio's proprietary `bambu_networking` plugin.
 - [parcadei/ContinuousClaudeV4.7](https://github.com/parcadei/ContinuousClaudeV4.7) - Continuous Claude V4.7 - Autonomous Evolving Pipelines, RLMs, Cheaper Edits & Reads, Context Management.
