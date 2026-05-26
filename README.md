@@ -93,6 +93,7 @@
 
 ## HTML 
 
+- [F6ITU/vswr_meter](https://github.com/F6ITU/vswr_meter) - PD0LEW reflectometer fork
 - [nfhw/tinycurrent](https://github.com/nfhw/tinycurrent) - tinyCurrent – a uCurrent Gold Clone/ Derivative
 - [WB2CBA/ADX](https://github.com/WB2CBA/ADX) - ADX - Arduino Digital Modes HF Transceiver
 - [F6ITU/K_Driver](https://github.com/F6ITU/K_Driver) - Ajax Telamon, 10 to 33 dBm driver to feed LDMOS RF amplifier
@@ -111,6 +112,7 @@
 ## JavaScript 
 
 - [littlebearapps/outlook-assistant](https://github.com/littlebearapps/outlook-assistant) - MCP server for Outlook email, calendar, and contacts — let your AI assistant manage your inbox directly from the conversation.
+- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude's frontend skills
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [ergogen/ergogen](https://github.com/ergogen/ergogen) - Ergonomic keyboard layout generator
 - [madpsy/ka9q_ubersdr](https://github.com/madpsy/ka9q_ubersdr) - WebSDR for ka9q-radio
@@ -216,7 +218,6 @@
 ## Shell 
 
 - [ArmanJR/claudebox](https://github.com/ArmanJR/claudebox) - Full Claude agent, completely contained, one command.
-- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude's frontend skills
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [peterkrueck/Claude-Code-Development-Kit](https://github.com/peterkrueck/Claude-Code-Development-Kit) - Claude Code Workflow for beginners & intermediate users. Tutorial and Installer included
 - [knavillus1/codex_bootstrap](https://github.com/knavillus1/codex_bootstrap) - A minimal OpenAI Codex Agent repo demonstrating environment setup script and AGENTS.md handling
