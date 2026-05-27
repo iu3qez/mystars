@@ -112,7 +112,7 @@
 ## JavaScript 
 
 - [littlebearapps/outlook-assistant](https://github.com/littlebearapps/outlook-assistant) - MCP server for Outlook email, calendar, and contacts — let your AI assistant manage your inbox directly from the conversation.
-- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude's frontend skills
+- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using a coding agent's frontend skills
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [ergogen/ergogen](https://github.com/ergogen/ergogen) - Ergonomic keyboard layout generator
 - [madpsy/ka9q_ubersdr](https://github.com/madpsy/ka9q_ubersdr) - WebSDR for ka9q-radio
