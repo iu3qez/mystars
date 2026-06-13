@@ -196,7 +196,6 @@
 - [sb-ocr/ocreeb-mk-2](https://github.com/sb-ocr/ocreeb-mk-2) - Modular Macro Keyboard System
 - [LynxCrew/adxl345-probe](https://github.com/LynxCrew/adxl345-probe) - 
 - [MRX8024/accel-endstop](https://github.com/MRX8024/accel-endstop) - Klipper module for homing by accelerometer
-- [mhylle/claude-skills-collection](https://github.com/mhylle/claude-skills-collection) - Custom skills and agents for Claude Code - codebase research, context management, and implementation planning workflows
 - [mixelpixx/KiCAD-MCP-Server](https://github.com/mixelpixx/KiCAD-MCP-Server) - KiCAD MCP is a Model Context Protocol (MCP) implementation that enables Large Language Models (LLMs) like Claude to directly interact with KiCAD for printed circuit board design.
 - [Staacks/inkkeys](https://github.com/Staacks/inkkeys) - https://there.oughta.be/a/macro-keyboard
 - [HammerCreativeLLC/statistical-cw-decoder](https://github.com/HammerCreativeLLC/statistical-cw-decoder) - Real-time Morse Code decoder using K-Means clustering for automatic timing calibration
@@ -219,6 +218,7 @@
 ## Shell 
 
 - [ArmanJR/claudebox](https://github.com/ArmanJR/claudebox) - Full Claude agent, completely contained, one command.
+- [mhylle/claude-skills-collection](https://github.com/mhylle/claude-skills-collection) - Custom skills and agents for Claude Code - codebase research, context management, and implementation planning workflows
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [peterkrueck/Claude-Code-Development-Kit](https://github.com/peterkrueck/Claude-Code-Development-Kit) - Claude Code Workflow for beginners & intermediate users. Tutorial and Installer included
 - [knavillus1/codex_bootstrap](https://github.com/knavillus1/codex_bootstrap) - A minimal OpenAI Codex Agent repo demonstrating environment setup script and AGENTS.md handling
