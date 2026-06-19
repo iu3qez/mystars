@@ -43,7 +43,7 @@
 ## C 
 
 - [Frix-x/baltobu-reverse-networking](https://github.com/Frix-x/baltobu-reverse-networking) - This project seeks to rewrite the libbbambu_networking.so, bambu_networking.dll, and libbambu_networking.dylib libraries by reverse engineering the AGPLv3'd binaries that Bambu Lab provided for Bambu 
-- [Kb2uka/openhpsdr-zeus](https://github.com/Kb2uka/openhpsdr-zeus) - 
+- [OpenHPSDR-Zeus-org/openhpsdr-zeus](https://github.com/OpenHPSDR-Zeus-org/openhpsdr-zeus) - 
 - [bkero/hdjmod](https://github.com/bkero/hdjmod) - Hercules DJ Console kernel module forward porting
 - [g0orx/rustyHPSDR](https://github.com/g0orx/rustyHPSDR) - Rust implementation of UI using OpenHPSDR Protocols 1 and 2
 - [sq8vps/vp-digi](https://github.com/sq8vps/vp-digi) - VP-Digi - a functional, cheap, easy to assemble and configure STM32-based APRS digipeater controller with built-in KISS modem.
@@ -112,7 +112,6 @@
 
 ## JavaScript 
 
-- [littlebearapps/outlook-assistant](https://github.com/littlebearapps/outlook-assistant) - MCP server for Outlook email, calendar, and contacts — let your AI assistant manage your inbox directly from the conversation.
 - [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using a coding agent's frontend skills
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [ergogen/ergogen](https://github.com/ergogen/ergogen) - Ergonomic keyboard layout generator
@@ -181,11 +180,9 @@
 - [queengooborg/Bambu-Lab-RFID-Tag-Guide](https://github.com/queengooborg/Bambu-Lab-RFID-Tag-Guide) - A collection of research and scripts regarding Bambu Lab / 3D filament RFID tags
 - [parcadei/ContinuousClaudeV4.7](https://github.com/parcadei/ContinuousClaudeV4.7) - Continuous Claude V4.7 - Autonomous Evolving Pipelines, RLMs, Cheaper Edits & Reads, Context Management.
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
-- [HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam) - "ClawTeam: Agent Swarm Intelligence" (One Command → Full Automation)
 - [n4hy/AutoNVIS](https://github.com/n4hy/AutoNVIS) - 
 - [Steffen-W/easyeda2kicad.py](https://github.com/Steffen-W/easyeda2kicad.py) - Convert any LCSC components (including EasyEDA) to KiCad library
 - [bbenchoff/OrthoRoute](https://github.com/bbenchoff/OrthoRoute) - OrthoRoute: A GPU-accelerated PCB autorouter for KiCad
-- [Rev4nchist/Continuous-Claude-v3](https://github.com/Rev4nchist/Continuous-Claude-v3) - Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.
 - [Seeed-Studio/kicad-mcp-server](https://github.com/Seeed-Studio/kicad-mcp-server) - 🔌 MCP server for KiCad EDA - Analyze schematics & PCBs, trace pin-level connections, automate design editing. Works with any MCP-compatible AI tool
 - [tylerwagler/KiCad-MCP](https://github.com/tylerwagler/KiCad-MCP) - 
 - [afkiwers/inventree_kicad](https://github.com/afkiwers/inventree_kicad) - KiCad EDA conform API endpoint for KiCad's parts library tool. This plugin provides metadata only and requires matching symbol and footprint libraries within the KiCad EDA.
@@ -200,7 +197,6 @@
 - [Staacks/inkkeys](https://github.com/Staacks/inkkeys) - https://there.oughta.be/a/macro-keyboard
 - [HammerCreativeLLC/statistical-cw-decoder](https://github.com/HammerCreativeLLC/statistical-cw-decoder) - Real-time Morse Code decoder using K-Means clustering for automatic timing calibration
 - [Xpra-org/xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
-- [DW-Tas/EMU](https://github.com/DW-Tas/EMU) - The [E]xpandable [M]ulti-material [U]nit.
 - [vvuk/eddy-ng](https://github.com/vvuk/eddy-ng) - 
 - [ukagit/iambic-keyer](https://github.com/ukagit/iambic-keyer) - iambic-keyer-rp2040
 - [lumascet/pyrigol](https://github.com/lumascet/pyrigol) - Python Rigol DS1054Z and  DG800/DG900 control and measurement classes
@@ -217,7 +213,6 @@
 
 ## Shell 
 
-- [ArmanJR/claudebox](https://github.com/ArmanJR/claudebox) - Full Claude agent, completely contained, one command.
 - [mhylle/claude-skills-collection](https://github.com/mhylle/claude-skills-collection) - Custom skills and agents for Claude Code - codebase research, context management, and implementation planning workflows
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [peterkrueck/Claude-Code-Development-Kit](https://github.com/peterkrueck/Claude-Code-Development-Kit) - Claude Code Workflow for beginners & intermediate users. Tutorial and Installer included
