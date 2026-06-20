@@ -13,6 +13,7 @@
 - [claude-code](#claude-code)
 - [cli](#cli)
 - [cms](#cms)
+- [coding](#coding)
 - [esp32](#esp32)
 - [html](#html)
 - [iot](#iot)
@@ -38,6 +39,7 @@
 ## ai 
 
 - [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 
 ## analytics 
 
@@ -67,6 +69,10 @@
 ## cms 
 
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
+
+## coding 
+
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 
 ## esp32 
 
@@ -148,7 +154,6 @@
 - [werediver/mic](https://github.com/werediver/mic) - A phantom-powered balanced electret microphone interface
 - [kachurovskiy/modulathe](https://github.com/kachurovskiy/modulathe) - Modular metal lathe made of CNC and 3D-printed parts
 - [Monolith3D/Monolith_Gantry](https://github.com/Monolith3D/Monolith_Gantry) - Performance-oriented, configurable gantry platform for Voron 2.4 and Trident.
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [peterkrueck/Claude-Code-Development-Kit](https://github.com/peterkrueck/Claude-Code-Development-Kit) - Claude Code Workflow for beginners & intermediate users. Tutorial and Installer included
 - [knavillus1/codex_bootstrap](https://github.com/knavillus1/codex_bootstrap) - A minimal OpenAI Codex Agent repo demonstrating environment setup script and AGENTS.md handling
 - [k1zmt/PhilsLibraries](https://github.com/k1zmt/PhilsLibraries) - KiCAD symbols, footprints and packages for ham-radio. SWR bridge, T50 toroids, BN-baluns, Si5351, OLED etc.
@@ -159,7 +164,7 @@
 - [vvuk/eddy-ng](https://github.com/vvuk/eddy-ng) - 
 - [ukagit/iambic-keyer](https://github.com/ukagit/iambic-keyer) - iambic-keyer-rp2040
 - [nischu/xOTA](https://github.com/nischu/xOTA) - a platform to host temporary amateur radio activies that have similar mechanics as Islands on the Air (IOTA) or Parks on the Air (POTA)
-- [gabrielonet/HF_CW_Contest_transceiver_with_teensy_4_1](https://github.com/gabrielonet/HF_CW_Contest_transceiver_with_teensy_4_1) - 
+- [lorine0s/HF_CW_Contest_transceiver_with_teensy_4_1](https://github.com/lorine0s/HF_CW_Contest_transceiver_with_teensy_4_1) - 
 - [afiskon/hbr-mk2](https://github.com/afiskon/hbr-mk2) - All HF bands QRP CW/SSB transceiver
 - [WV-design/Trinity-toolhead](https://github.com/WV-design/Trinity-toolhead) - A single piece high performance toolhead option
 - [SP6GK/Forte-600-HF-RF-Amplifier](https://github.com/SP6GK/Forte-600-HF-RF-Amplifier) - Project of 600 W LDMOS amlifier based on 2xMRF300.
