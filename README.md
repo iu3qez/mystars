@@ -93,6 +93,7 @@
 
 ## HTML 
 
+- [F6ITU/Alexiares_LPF](https://github.com/F6ITU/Alexiares_LPF) - Low-pass filter section of OpenHPSDR frontend ((Alex retrofit))
 - [F6ITU/vswr_meter](https://github.com/F6ITU/vswr_meter) - PD0LEW reflectometer fork
 - [nfhw/tinycurrent](https://github.com/nfhw/tinycurrent) - tinyCurrent – a uCurrent Gold Clone/ Derivative
 - [WB2CBA/ADX](https://github.com/WB2CBA/ADX) - ADX - Arduino Digital Modes HF Transceiver
