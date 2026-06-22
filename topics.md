@@ -15,6 +15,7 @@
 - [cms](#cms)
 - [coding](#coding)
 - [esp32](#esp32)
+- [home-assistant](#home-assistant)
 - [html](#html)
 - [iot](#iot)
 - [llm](#llm)
@@ -38,6 +39,7 @@
 
 ## ai 
 
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
 - [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 
@@ -79,6 +81,10 @@
 - [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [sh123/esp32_loraprs](https://github.com/sh123/esp32_loraprs) - LoRa ESP32 KISS Bluetooth modem (for APRSDroid or aprs.fi iOS) +  APRS-IS RX/TX iGate over WiFi + Digipeater + DV (with Codec2 Walkie-Talkie)
 
+## home-assistant 
+
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
+
 ## html 
 
 - [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using a coding agent's frontend skills
@@ -90,10 +96,12 @@
 
 ## llm 
 
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
 - [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
 
 ## mcp 
 
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
 - [parcadei/Continuous-Claude-v3](https://github.com/parcadei/Continuous-Claude-v3) - Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.
 
 ## nextjs 
@@ -106,6 +114,7 @@
 
 ## others 
 
+- [F6ITU/Alexiares_LPF](https://github.com/F6ITU/Alexiares_LPF) - Low-pass filter section of OpenHPSDR frontend ((Alex retrofit))
 - [queengooborg/Bambu-Lab-RFID-Tag-Guide](https://github.com/queengooborg/Bambu-Lab-RFID-Tag-Guide) - A collection of research and scripts regarding Bambu Lab / 3D filament RFID tags
 - [F6ITU/vswr_meter](https://github.com/F6ITU/vswr_meter) - PD0LEW reflectometer fork
 - [Frix-x/baltobu-reverse-networking](https://github.com/Frix-x/baltobu-reverse-networking) - This project seeks to rewrite the libbbambu_networking.so, bambu_networking.dll, and libbambu_networking.dylib libraries by reverse engineering the AGPLv3'd binaries that Bambu Lab provided for Bambu 
@@ -114,7 +123,6 @@
 - [OpenHPSDR-Zeus-org/openhpsdr-zeus](https://github.com/OpenHPSDR-Zeus-org/openhpsdr-zeus) - 
 - [boydsoftprez/NereusSDR](https://github.com/boydsoftprez/NereusSDR) - Cross-platform OpenHPSDR SDR console — Qt6 + C++20, GPU-accelerated waterfall, multi-panadapter, full WDSP DSP
 - [kimmknight/remoteapptool](https://github.com/kimmknight/remoteapptool) - Create and manage RemoteApps hosted on Windows 7, 8, 10, 11, XP and Server. Generate RDP and MSI files for clients.
-- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
 - [WB2CBA/ADX](https://github.com/WB2CBA/ADX) - ADX - Arduino Digital Modes HF Transceiver
 - [F6ITU/K_Driver](https://github.com/F6ITU/K_Driver) - Ajax Telamon, 10 to 33 dBm driver to feed LDMOS RF amplifier
 - [0xMH/fichero-printer](https://github.com/0xMH/fichero-printer) - Fichero D11s thermal label printer - BLE protocol reverse engineering and Python CLI tool
