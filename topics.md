@@ -14,6 +14,7 @@
 - [cli](#cli)
 - [cms](#cms)
 - [coding](#coding)
+- [embedded](#embedded)
 - [esp32](#esp32)
 - [home-assistant](#home-assistant)
 - [html](#html)
@@ -75,6 +76,10 @@
 ## coding 
 
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+
+## embedded 
+
+- [Rompass/openc6-bios](https://github.com/Rompass/openc6-bios) - An open-source RISC-V firmware platform for ESP32-C6(8MB Flash). Implements a BIOS/Payload architecture with a custom system call interface (ABI), independent LP-Core coprocessor management, and an an
 
 ## esp32 
 
