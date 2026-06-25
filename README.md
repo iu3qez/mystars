@@ -42,6 +42,8 @@
 
 ## C 
 
+- [e04/will60](https://github.com/e04/will60) - DIY Keyboard
+- [e04/HamNoise](https://github.com/e04/HamNoise) - Neural network noise reduction for ham radio, supporting CW and voice modes.
 - [Rompass/openc6-bios](https://github.com/Rompass/openc6-bios) - An open-source RISC-V firmware platform for ESP32-C6(8MB Flash). Implements a BIOS/Payload architecture with a custom system call interface (ABI), independent LP-Core coprocessor management, and an an
 - [Frix-x/baltobu-reverse-networking](https://github.com/Frix-x/baltobu-reverse-networking) - This project seeks to rewrite the libbbambu_networking.so, bambu_networking.dll, and libbambu_networking.dylib libraries by reverse engineering the AGPLv3'd binaries that Bambu Lab provided for Bambu 
 - [OpenHPSDR-Zeus-org/openhpsdr-zeus](https://github.com/OpenHPSDR-Zeus-org/openhpsdr-zeus) - 
@@ -134,6 +136,7 @@
 
 ## Others 
 
+- [e04/deepcw-engine](https://github.com/e04/deepcw-engine) - 
 - [Armchair-Heavy-Industries/A4T](https://github.com/Armchair-Heavy-Industries/A4T) - [A]nother [4]010 [T]oolhead. A toolhead for Voron front rail printers built around 4010 blower fans, efficient ducts, and easy assembly.
 - [Armchair-Heavy-Industries/Xol-Toolhead](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead) - Xol Toolhead is the evolution of 'Mantis Xol 2'. Aimed at modularity and quality of life improvements for installation and serviceability. We have left the mantis carriage behind, and thus are now jus
 - [F6ITU/Capacitive_coupler](https://github.com/F6ITU/Capacitive_coupler) - 
@@ -231,6 +234,7 @@
 
 ## TypeScript 
 
+- [e04/web-deep-cw-decoder](https://github.com/e04/web-deep-cw-decoder) - A ultra-accurate, real-time Morse code (CW) decoder powered by a neural network model
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [0xMH/fichero-printer](https://github.com/0xMH/fichero-printer) - Fichero D11s thermal label printer - BLE protocol reverse engineering and Python CLI tool
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
