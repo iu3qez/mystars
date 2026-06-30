@@ -119,6 +119,7 @@
 
 ## others 
 
+- [steve-m/hsdaoh-rp2350](https://github.com/steve-m/hsdaoh-rp2350) - High Speed Data Acquisition over HDMI - RP2350 HSTX implementation
 - [e04/will60](https://github.com/e04/will60) - DIY Keyboard
 - [e04/HamNoise](https://github.com/e04/HamNoise) - Neural network noise reduction for ham radio, supporting CW and voice modes.
 - [e04/deepcw-engine](https://github.com/e04/deepcw-engine) - 
