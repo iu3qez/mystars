@@ -42,6 +42,7 @@
 
 ## C 
 
+- [steve-m/hsdaoh-rp2350](https://github.com/steve-m/hsdaoh-rp2350) - High Speed Data Acquisition over HDMI - RP2350 HSTX implementation
 - [e04/will60](https://github.com/e04/will60) - DIY Keyboard
 - [e04/HamNoise](https://github.com/e04/HamNoise) - Neural network noise reduction for ham radio, supporting CW and voice modes.
 - [Rompass/openc6-bios](https://github.com/Rompass/openc6-bios) - An open-source RISC-V firmware platform for ESP32-C6(8MB Flash). Implements a BIOS/Payload architecture with a custom system call interface (ABI), independent LP-Core coprocessor management, and an an
