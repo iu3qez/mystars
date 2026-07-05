@@ -235,7 +235,7 @@
 
 ## TypeScript 
 
-- [e04/web-deep-cw-decoder](https://github.com/e04/web-deep-cw-decoder) - A ultra-accurate, real-time Morse code (CW) decoder powered by a neural network model
+- [e04/web-deep-cw-decoder](https://github.com/e04/web-deep-cw-decoder) - ultra-accurate, real-time morse code (CW) decoder powered by a neural network model
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [0xMH/fichero-printer](https://github.com/0xMH/fichero-printer) - Fichero D11s thermal label printer - BLE protocol reverse engineering and Python CLI tool
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
