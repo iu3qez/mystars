@@ -47,7 +47,6 @@
 - [e04/HamNoise](https://github.com/e04/HamNoise) - Neural network noise reduction for ham radio, supporting CW and voice modes.
 - [Rompass/openc6-bios](https://github.com/Rompass/openc6-bios) - An open-source RISC-V firmware platform for ESP32-C6(8MB Flash). Implements a BIOS/Payload architecture with a custom system call interface (ABI), independent LP-Core coprocessor management, and an an
 - [Frix-x/baltobu-reverse-networking](https://github.com/Frix-x/baltobu-reverse-networking) - This project seeks to rewrite the libbbambu_networking.so, bambu_networking.dll, and libbambu_networking.dylib libraries by reverse engineering the AGPLv3'd binaries that Bambu Lab provided for Bambu 
-- [OpenHPSDR-Zeus-org/openhpsdr-zeus](https://github.com/OpenHPSDR-Zeus-org/openhpsdr-zeus) - 
 - [bkero/hdjmod](https://github.com/bkero/hdjmod) - Hercules DJ Console kernel module forward porting
 - [g0orx/rustyHPSDR](https://github.com/g0orx/rustyHPSDR) - Rust implementation of UI using OpenHPSDR Protocols 1 and 2
 - [sq8vps/vp-digi](https://github.com/sq8vps/vp-digi) - VP-Digi - a functional, cheap, easy to assemble and configure STM32-based APRS digipeater controller with built-in KISS modem.
