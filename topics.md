@@ -138,7 +138,6 @@
 - [Frix-x/baltobu-reverse-networking](https://github.com/Frix-x/baltobu-reverse-networking) - This project seeks to rewrite the libbbambu_networking.so, bambu_networking.dll, and libbambu_networking.dylib libraries by reverse engineering the AGPLv3'd binaries that Bambu Lab provided for Bambu 
 - [ClusterM/open-bamboo-networking](https://github.com/ClusterM/open-bamboo-networking) - Open-source drop-in replacement for Bambu Studio's proprietary `bambu_networking` plugin.
 - [parcadei/ContinuousClaudeV4.7](https://github.com/parcadei/ContinuousClaudeV4.7) - Continuous Claude V4.7 - Autonomous Evolving Pipelines, RLMs, Cheaper Edits & Reads, Context Management.
-- [OpenHPSDR-Zeus-org/openhpsdr-zeus](https://github.com/OpenHPSDR-Zeus-org/openhpsdr-zeus) - 
 - [boydsoftprez/NereusSDR](https://github.com/boydsoftprez/NereusSDR) - Cross-platform OpenHPSDR SDR console — Qt6 + C++20, GPU-accelerated waterfall, multi-panadapter, full WDSP DSP
 - [kimmknight/remoteapptool](https://github.com/kimmknight/remoteapptool) - Create and manage RemoteApps hosted on Windows 7, 8, 10, 11, XP and Server. Generate RDP and MSI files for clients.
 - [WB2CBA/ADX](https://github.com/WB2CBA/ADX) - ADX - Arduino Digital Modes HF Transceiver
