@@ -126,6 +126,7 @@
 
 ## others 
 
+- [tphakala/p48-pip-adapter](https://github.com/tphakala/p48-pip-adapter) - Miniature phantom-power (P48) to 8V plug-in-power adapter PCB that fits inside a Neutrik NC3MXX XLR - a buffered, impedance-balanced front end for AOM-5024 electret capsules
 - [jrowny/p4kvm](https://github.com/jrowny/p4kvm) - A proof of concept IP KVM built on espressif ESP32-P4
 - [steve-m/hsdaoh-rp2350](https://github.com/steve-m/hsdaoh-rp2350) - High Speed Data Acquisition over HDMI - RP2350 HSTX implementation
 - [e04/will60](https://github.com/e04/will60) - DIY Keyboard
