@@ -184,6 +184,7 @@
 
 ## Python 
 
+- [tphakala/p48-pip-adapter](https://github.com/tphakala/p48-pip-adapter) - Miniature phantom-power (P48) to 8V plug-in-power adapter PCB that fits inside a Neutrik NC3MXX XLR - a buffered, impedance-balanced front end for AOM-5024 electret capsules
 - [queengooborg/Bambu-Lab-RFID-Tag-Guide](https://github.com/queengooborg/Bambu-Lab-RFID-Tag-Guide) - A collection of research and scripts regarding Bambu Lab / 3D filament RFID tags
 - [parcadei/ContinuousClaudeV4.7](https://github.com/parcadei/ContinuousClaudeV4.7) - Continuous Claude V4.7 - Autonomous Evolving Pipelines, RLMs, Cheaper Edits & Reads, Context Management.
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
