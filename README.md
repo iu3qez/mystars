@@ -98,7 +98,7 @@
 
 ## HTML 
 
-- [CharmingBlaze/moonbasic](https://github.com/CharmingBlaze/moonbasic) - Download moonBASIC IDE, runtime, and VS Code extension — docs and examples (no engine source)
+- [CharmingBlaze/moonbasic](https://github.com/CharmingBlaze/moonbasic) - moonBASIC — modern BASIC for 2D/3D games. Download IDE + runtime + docs. No Go required.
 - [F6ITU/Alexiares_LPF](https://github.com/F6ITU/Alexiares_LPF) - Low-pass filter section of OpenHPSDR frontend ((Alex retrofit))
 - [F6ITU/vswr_meter](https://github.com/F6ITU/vswr_meter) - PD0LEW reflectometer fork
 - [nfhw/tinycurrent](https://github.com/nfhw/tinycurrent) - tinyCurrent – a uCurrent Gold Clone/ Derivative
