@@ -17,6 +17,7 @@
 - [coding](#coding)
 - [embedded](#embedded)
 - [esp32](#esp32)
+- [gamedev](#gamedev)
 - [home-assistant](#home-assistant)
 - [html](#html)
 - [iot](#iot)
@@ -93,6 +94,10 @@
 - [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [sh123/esp32_loraprs](https://github.com/sh123/esp32_loraprs) - LoRa ESP32 KISS Bluetooth modem (for APRSDroid or aprs.fi iOS) +  APRS-IS RX/TX iGate over WiFi + Digipeater + DV (with Codec2 Walkie-Talkie)
 
+## gamedev 
+
+- [CharmingBlaze/moonbasic](https://github.com/CharmingBlaze/moonbasic) - moonBASIC — modern BASIC for 2D/3D games. Download IDE + runtime + docs. No Go required.
+
 ## home-assistant 
 
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
@@ -126,7 +131,6 @@
 
 ## others 
 
-- [CharmingBlaze/moonbasic](https://github.com/CharmingBlaze/moonbasic) - Download moonBASIC IDE, runtime, and VS Code extension — docs and examples (no engine source)
 - [tphakala/p48-pip-adapter](https://github.com/tphakala/p48-pip-adapter) - Miniature phantom-power (P48) to 8V plug-in-power adapter PCB that fits inside a Neutrik NC3MXX XLR - a buffered, impedance-balanced front end for AOM-5024 electret capsules
 - [jrowny/p4kvm](https://github.com/jrowny/p4kvm) - A proof of concept IP KVM built on espressif ESP32-P4
 - [steve-m/hsdaoh-rp2350](https://github.com/steve-m/hsdaoh-rp2350) - High Speed Data Acquisition over HDMI - RP2350 HSTX implementation
