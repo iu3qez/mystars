@@ -138,6 +138,7 @@
 
 ## Others 
 
+- [AndreiVladescu/ESP32-Bit-Pirate-Dock](https://github.com/AndreiVladescu/ESP32-Bit-Pirate-Dock) - Carrier breaker-board for the ESP32-S3 Devkit. Works great with the ESP32-Bit-Pirate firmware.
 - [e04/deepcw-engine](https://github.com/e04/deepcw-engine) - 
 - [Armchair-Heavy-Industries/A4T](https://github.com/Armchair-Heavy-Industries/A4T) - [A]nother [4]010 [T]oolhead. A toolhead for Voron front rail printers built around 4010 blower fans, efficient ducts, and easy assembly.
 - [Armchair-Heavy-Industries/Xol-Toolhead](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead) - Xol Toolhead is the evolution of 'Mantis Xol 2'. Aimed at modularity and quality of life improvements for installation and serviceability. We have left the mantis carriage behind, and thus are now jus
