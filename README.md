@@ -238,6 +238,7 @@
 
 ## TypeScript 
 
+- [wilhel1812/LinkSim](https://github.com/wilhel1812/LinkSim) - A modern take at a radio link simulator
 - [e04/web-deep-cw-decoder](https://github.com/e04/web-deep-cw-decoder) - ultra-accurate, real-time morse code (CW) decoder powered by a neural network model
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [0xMH/fichero-printer](https://github.com/0xMH/fichero-printer) - Fichero D11s thermal label printer - BLE protocol reverse engineering and Python CLI tool
