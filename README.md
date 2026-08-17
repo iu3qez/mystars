@@ -98,7 +98,7 @@
 
 ## HTML 
 
-- [AndreiVladescu/ESP32-Bit-Pirate-Dock](https://github.com/AndreiVladescu/ESP32-Bit-Pirate-Dock) - Carrier breaker-board for the ESP32-S3 Devkit. Works great with the ESP32-Bit-Pirate firmware.
+- [AndreiVladescu/ESP32-Bit-Pirate-Hardware](https://github.com/AndreiVladescu/ESP32-Bit-Pirate-Hardware) - Carrier breaker-board for the ESP32-S3 Devkit. Works great with the ESP32-Bit-Pirate firmware.
 - [CharmingBlaze/moonbasic](https://github.com/CharmingBlaze/moonbasic) - moonBASIC — modern BASIC for 2D/3D games. Download IDE + runtime + docs. No Go required.
 - [F6ITU/Alexiares_LPF](https://github.com/F6ITU/Alexiares_LPF) - Low-pass filter section of OpenHPSDR frontend ((Alex retrofit))
 - [F6ITU/vswr_meter](https://github.com/F6ITU/vswr_meter) - PD0LEW reflectometer fork
