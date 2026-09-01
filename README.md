@@ -147,7 +147,7 @@
 - [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev agents
 - [werediver/mic](https://github.com/werediver/mic) - A phantom-powered balanced electret microphone interface
 - [kachurovskiy/modulathe](https://github.com/kachurovskiy/modulathe) - Modular metal lathe made of CNC and 3D-printed parts
-- [Monolith3D/Monolith_Gantry](https://github.com/Monolith3D/Monolith_Gantry) - Performance-oriented, configurable gantry platform for Voron 2.4 and Trident.
+- [Monolith3D/Monolith_Gantry](https://github.com/Monolith3D/Monolith_Gantry) - Performance-oriented, configurable gantry platform.
 - [oxygen-fragment/claude-modular](https://github.com/oxygen-fragment/claude-modular) - Production-ready modular Claude Code framework with 30+ commands, token optimization, and MCP server integration. Achieves 2-10x productivity gains through   systematic command organization and hierar
 - [k1zmt/PhilsLibraries](https://github.com/k1zmt/PhilsLibraries) - KiCAD symbols, footprints and packages for ham-radio. SWR bridge, T50 toroids, BN-baluns, Si5351, OLED etc.
 - [umcu7tcoillab/EMI-probes](https://github.com/umcu7tcoillab/EMI-probes) - Open PCB designs for EMI probes. H-field and E-field.
