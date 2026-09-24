@@ -21,7 +21,6 @@
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
-- [Perl](#perl)
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -180,16 +179,13 @@
 
 - [scivision/radioutils-pascal](https://github.com/scivision/radioutils-pascal) - (Ham) radio utilities in Pascal by G4FGQ
 
-## Perl 
-
-- [AI3I/pyCluster](https://github.com/AI3I/pyCluster) - Modern DX cluster core with telnet, public web UI, sysop console, SQLite persistence, and DXSpider-compatible node linking
-
 ## Python 
 
 - [Ovid/paad](https://github.com/Ovid/paad) - The practices that made software work didn't stop working. They stopped keeping up. PAAD brings them back at AI speed.
 - [tphakala/p48-pip-adapter](https://github.com/tphakala/p48-pip-adapter) - Miniature phantom-power (P48) to 8V plug-in-power adapter PCB that fits inside a Neutrik NC3MXX XLR - a buffered, impedance-balanced front end for AOM-5024 electret capsules
 - [queengooborg/Bambu-Lab-RFID-Tag-Guide](https://github.com/queengooborg/Bambu-Lab-RFID-Tag-Guide) - A collection of research and scripts regarding Bambu Lab / 3D filament RFID tags
 - [parcadei/ContinuousClaudeV4.7](https://github.com/parcadei/ContinuousClaudeV4.7) - Continuous Claude V4.7 - Autonomous Evolving Pipelines, RLMs, Cheaper Edits & Reads, Context Management.
+- [AI3I/pyCluster](https://github.com/AI3I/pyCluster) - Modern DX cluster core with telnet, public web UI, sysop console, SQLite persistence, and DXSpider-compatible node linking
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
 - [n4hy/AutoNVIS](https://github.com/n4hy/AutoNVIS) - 
 - [Steffen-W/easyeda2kicad.py](https://github.com/Steffen-W/easyeda2kicad.py) - Convert any LCSC components (including EasyEDA) to KiCad library
