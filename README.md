@@ -55,7 +55,7 @@
 - [aljazblatnik/Spectrum-analyzer](https://github.com/aljazblatnik/Spectrum-analyzer) - 
 - [Squalius-cephalus/silli41](https://github.com/Squalius-cephalus/silli41) - 41-key column staggered keyboard
 - [righthalfplane/SdrGlut](https://github.com/righthalfplane/SdrGlut) - SdrGlut is a simple software defined radio - using glut and glui for its interface
-- [dl1bz/deskhpsdr](https://github.com/dl1bz/deskhpsdr) - SDR App for OpenHPSDR protocol 1 & 2 (macOS and Linux)
+- [dl1bz/deskhpsdr](https://github.com/dl1bz/deskhpsdr) - SDR App for OpenHPSDR protocol 1 & 2 (macOS, Linux and WINDOWS)
 - [isomer/ax25embed](https://github.com/isomer/ax25embed) - 
 - [fventuri/DFC-transceiver](https://github.com/fventuri/DFC-transceiver) - DFC transceiver
 - [ka6s/rp16a](https://github.com/ka6s/rp16a) - This is version 1.3 of the rp16a Red Pitaya Shield.  This is an enhancment over the rp_adapter in several ways.  The design adds 10db and 20db attenuation. It has interfaces for both Alex filtering an
@@ -236,7 +236,7 @@
 ## TypeScript 
 
 - [wilhel1812/LinkSim](https://github.com/wilhel1812/LinkSim) - A modern take at a radio link simulator
-- [e04/web-deep-cw-decoder](https://github.com/e04/web-deep-cw-decoder) - ultra-accurate, real-time morse code (CW) decoder powered by a neural network model
+- [e04/web-deep-cw-decoder](https://github.com/e04/web-deep-cw-decoder) - Ultra-accurate, real-time Morse code (CW) decoder powered by a neural network model
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [0xMH/fichero-printer](https://github.com/0xMH/fichero-printer) - Fichero D11s thermal label printer - BLE protocol reverse engineering and Python CLI tool
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
