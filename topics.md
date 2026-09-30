@@ -146,7 +146,7 @@
 
 ## open-source 
 
-- [dl1bz/deskhpsdr](https://github.com/dl1bz/deskhpsdr) - SDR App for OpenHPSDR protocol 1 & 2 (macOS and Linux)
+- [dl1bz/deskhpsdr](https://github.com/dl1bz/deskhpsdr) - SDR App for OpenHPSDR protocol 1 & 2 (macOS, Linux and WINDOWS)
 
 ## others 
 
@@ -158,7 +158,7 @@
 - [e04/will60](https://github.com/e04/will60) - DIY Keyboard
 - [e04/HamNoise](https://github.com/e04/HamNoise) - Neural network noise reduction for ham radio, supporting CW and voice modes.
 - [e04/deepcw-engine](https://github.com/e04/deepcw-engine) - 
-- [e04/web-deep-cw-decoder](https://github.com/e04/web-deep-cw-decoder) - ultra-accurate, real-time morse code (CW) decoder powered by a neural network model
+- [e04/web-deep-cw-decoder](https://github.com/e04/web-deep-cw-decoder) - Ultra-accurate, real-time Morse code (CW) decoder powered by a neural network model
 - [jfedor2/twist-to-scroll-trackball](https://github.com/jfedor2/twist-to-scroll-trackball) - DIY trackball with twist-to-scroll
 - [F6ITU/Alexiares_LPF](https://github.com/F6ITU/Alexiares_LPF) - Low-pass filter section of OpenHPSDR frontend ((Alex retrofit))
 - [queengooborg/Bambu-Lab-RFID-Tag-Guide](https://github.com/queengooborg/Bambu-Lab-RFID-Tag-Guide) - A collection of research and scripts regarding Bambu Lab / 3D filament RFID tags
