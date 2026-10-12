@@ -223,7 +223,7 @@
 - [SP6GK/Forte-600-HF-RF-Amplifier](https://github.com/SP6GK/Forte-600-HF-RF-Amplifier) - Project of 600 W LDMOS amlifier based on 2xMRF300.
 - [jankae/LCR](https://github.com/jankae/LCR) - Benchtop 100Hz to 200kHz LCR meter
 - [lumascet/pyrigol](https://github.com/lumascet/pyrigol) - Python Rigol DS1054Z and  DG800/DG900 control and measurement classes
-- [DanielStoelzner/RIGOL-DS1054Z-DG800-DG900-Bode-Plot](https://github.com/DanielStoelzner/RIGOL-DS1054Z-DG800-DG900-Bode-Plot) - 
+- [DanielStoelzner/RIGOL-DS1054Z-DG800-DG900-Bode-Plot](https://github.com/DanielStoelzner/RIGOL-DS1054Z-DG800-DG900-Bode-Plot) - A python tool to create Bode Plots using the Rigol DS1054Z and DG800/DG900 AWGs
 - [jmwilson/oshw-active-probe](https://github.com/jmwilson/oshw-active-probe) - 2GHz single-ended active probe design
 - [GadgetAngel/Voron2.4_My_Build_Log](https://github.com/GadgetAngel/Voron2.4_My_Build_Log) - This repository will hold any documents I use to help with building my Voron 2.4 250mm 3D Printer and the Voron 2.4 LDO 300mm Printer
 - [calithameridi/corevus](https://github.com/calithameridi/corevus) - High-flexibility, low-cost mechatronics controller for 3D printers
