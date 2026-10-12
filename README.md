@@ -208,7 +208,7 @@
 - [vvuk/eddy-ng](https://github.com/vvuk/eddy-ng) - 
 - [ukagit/iambic-keyer](https://github.com/ukagit/iambic-keyer) - iambic-keyer-rp2040
 - [lumascet/pyrigol](https://github.com/lumascet/pyrigol) - Python Rigol DS1054Z and  DG800/DG900 control and measurement classes
-- [DanielStoelzner/RIGOL-DS1054Z-DG800-DG900-Bode-Plot](https://github.com/DanielStoelzner/RIGOL-DS1054Z-DG800-DG900-Bode-Plot) - 
+- [DanielStoelzner/RIGOL-DS1054Z-DG800-DG900-Bode-Plot](https://github.com/DanielStoelzner/RIGOL-DS1054Z-DG800-DG900-Bode-Plot) - A python tool to create Bode Plots using the Rigol DS1054Z and DG800/DG900 AWGs
 - [ifurusato/rp2040-i2c-slave-legacy](https://github.com/ifurusato/rp2040-i2c-slave-legacy) - A simple I2C slave implementation for the RP2040.
 - [gusmanb/logicanalyzer](https://github.com/gusmanb/logicanalyzer) - 24 channel, 100Msps logic analyzer hardware and software
 - [jmharvey1/SdrCwXcvr](https://github.com/jmharvey1/SdrCwXcvr) - Project Files for 100W CW Transceiver. Includes both eagle board files and program files
