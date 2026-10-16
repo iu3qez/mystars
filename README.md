@@ -97,6 +97,7 @@
 
 ## HTML 
 
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [AndreiVladescu/ESP32-Bit-Pirate-Hardware](https://github.com/AndreiVladescu/ESP32-Bit-Pirate-Hardware) - Carrier breaker-board for the ESP32-S3 Devkit. Works great with the ESP32-Bit-Pirate firmware.
 - [CharmingBlaze/moonbasic](https://github.com/CharmingBlaze/moonbasic) - moonBASIC — modern BASIC for 2D/3D games. Download IDE + runtime + docs. No Go required.
 - [F6ITU/Alexiares_LPF](https://github.com/F6ITU/Alexiares_LPF) - Low-pass filter section of OpenHPSDR frontend ((Alex retrofit))
@@ -181,6 +182,7 @@
 
 ## Python 
 
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog
 - [Ovid/paad](https://github.com/Ovid/paad) - The practices that made software work didn't stop working. They stopped keeping up. PAAD brings them back at AI speed.
 - [tphakala/p48-pip-adapter](https://github.com/tphakala/p48-pip-adapter) - Miniature phantom-power (P48) to 8V plug-in-power adapter PCB that fits inside a Neutrik NC3MXX XLR - a buffered, impedance-balanced front end for AOM-5024 electret capsules
 - [queengooborg/Bambu-Lab-RFID-Tag-Guide](https://github.com/queengooborg/Bambu-Lab-RFID-Tag-Guide) - A collection of research and scripts regarding Bambu Lab / 3D filament RFID tags
@@ -217,6 +219,7 @@
 
 ## Rust 
 
+- [xerj-org/xerj](https://github.com/xerj-org/xerj) - XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search
 - [diodeinc/pcb](https://github.com/diodeinc/pcb) - PCB tooling by Diode Computers, Inc.
 
 ## Shell 
@@ -235,6 +238,7 @@
 
 ## TypeScript 
 
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [wilhel1812/LinkSim](https://github.com/wilhel1812/LinkSim) - A modern take at a radio link simulator
 - [e04/web-deep-cw-decoder](https://github.com/e04/web-deep-cw-decoder) - Ultra-accurate, real-time Morse code (CW) decoder powered by a neural network model
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
