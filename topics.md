@@ -183,7 +183,7 @@
 
 ## others 
 
-- [xerj-org/xerj](https://github.com/xerj-org/xerj) - XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search
+- [xerj-org/xerj](https://github.com/xerj-org/xerj) - XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for se
 - [wilhel1812/LinkSim](https://github.com/wilhel1812/LinkSim) - A modern take at a radio link simulator
 - [AndreiVladescu/ESP32-Bit-Pirate-Hardware](https://github.com/AndreiVladescu/ESP32-Bit-Pirate-Hardware) - Carrier breaker-board for the ESP32-S3 Devkit. Works great with the ESP32-Bit-Pirate firmware.
 - [tphakala/p48-pip-adapter](https://github.com/tphakala/p48-pip-adapter) - Miniature phantom-power (P48) to 8V plug-in-power adapter PCB that fits inside a Neutrik NC3MXX XLR - a buffered, impedance-balanced front end for AOM-5024 electret capsules
