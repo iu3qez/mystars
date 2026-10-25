@@ -33,6 +33,7 @@
 
 ## AGS Script 
 
+- [GoodEarthWeather/myKicadProjects](https://github.com/GoodEarthWeather/myKicadProjects) - Kicad Schematic and PCB Projects
 - [SP5GW/RF_Tap](https://github.com/SP5GW/RF_Tap) - 
 
 ## Assembly 
@@ -69,6 +70,7 @@
 
 ## C++ 
 
+- [danieloquelis/BambuPlotter](https://github.com/danieloquelis/BambuPlotter) - BambuStudio fork that enabled 3D printers to behave as plotter.
 - [jfedor2/twist-to-scroll-trackball](https://github.com/jfedor2/twist-to-scroll-trackball) - DIY trackball with twist-to-scroll
 - [ClusterM/open-bamboo-networking](https://github.com/ClusterM/open-bamboo-networking) - Open-source drop-in replacement for Bambu Studio's proprietary `bambu_networking` plugin.
 - [boydsoftprez/NereusSDR](https://github.com/boydsoftprez/NereusSDR) - Cross-platform OpenHPSDR SDR console — Qt6 + C++20, GPU-accelerated waterfall, multi-panadapter, full WDSP DSP
@@ -143,7 +145,6 @@
 - [Armchair-Heavy-Industries/A4T](https://github.com/Armchair-Heavy-Industries/A4T) - [A]nother [4]010 [T]oolhead. A toolhead for Voron front rail printers built around 4010 blower fans, efficient ducts, and easy assembly.
 - [Armchair-Heavy-Industries/Xol-Toolhead](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead) - Xol Toolhead is the evolution of 'Mantis Xol 2'. Aimed at modularity and quality of life improvements for installation and serviceability. We have left the mantis carriage behind, and thus are now jus
 - [F6ITU/Capacitive_coupler](https://github.com/F6ITU/Capacitive_coupler) - 
-- [GoodEarthWeather/myKicadProjects](https://github.com/GoodEarthWeather/myKicadProjects) - Kicad Schematic and PCB Projects
 - [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev agents
 - [werediver/mic](https://github.com/werediver/mic) - A phantom-powered balanced electret microphone interface
 - [kachurovskiy/modulathe](https://github.com/kachurovskiy/modulathe) - Modular metal lathe made of CNC and 3D-printed parts
