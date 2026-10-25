@@ -194,6 +194,7 @@
 
 ## others 
 
+- [danieloquelis/BambuPlotter](https://github.com/danieloquelis/BambuPlotter) - BambuStudio fork that enabled 3D printers to behave as plotter.
 - [wilhel1812/LinkSim](https://github.com/wilhel1812/LinkSim) - A modern take at a radio link simulator
 - [AndreiVladescu/ESP32-Bit-Pirate-Hardware](https://github.com/AndreiVladescu/ESP32-Bit-Pirate-Hardware) - Carrier breaker-board for the ESP32-S3 Devkit. Works great with the ESP32-Bit-Pirate firmware.
 - [tphakala/p48-pip-adapter](https://github.com/tphakala/p48-pip-adapter) - Miniature phantom-power (P48) to 8V plug-in-power adapter PCB that fits inside a Neutrik NC3MXX XLR - a buffered, impedance-balanced front end for AOM-5024 electret capsules
