@@ -12,6 +12,7 @@
 - [analytics](#analytics)
 - [arduino](#arduino)
 - [bioinformatics](#bioinformatics)
+- [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
 - [claude](#claude)
 - [claude-code](#claude-code)
@@ -82,6 +83,10 @@
 ## bioinformatics 
 
 - [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog
+
+## c-plus-plus 
+
+- [spectregrams/spectre](https://github.com/spectregrams/spectre) - An SDR-agnostic program for recording radio signals and spectrograms (waterfall displays).
 
 ## chatgpt 
 
@@ -328,6 +333,7 @@
 
 ## python 
 
+- [spectregrams/spectre](https://github.com/spectregrams/spectre) - An SDR-agnostic program for recording radio signals and spectrograms (waterfall displays).
 - [AI3I/pyCluster](https://github.com/AI3I/pyCluster) - Modern DX cluster core with telnet, public web UI, sysop console, SQLite persistence, and DXSpider-compatible node linking
 - [francescocozzi/hpsdr-udp-proxy](https://github.com/francescocozzi/hpsdr-udp-proxy) - High-performance UDP proxy/gateway for HPSDR protocol with authentication
 
