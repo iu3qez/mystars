@@ -183,6 +183,7 @@
 
 ## Python 
 
+- [spectregrams/spectre](https://github.com/spectregrams/spectre) - An SDR-agnostic program for recording radio signals and spectrograms (waterfall displays).
 - [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog
 - [Ovid/paad](https://github.com/Ovid/paad) - The practices that made software work didn't stop working. They stopped keeping up. PAAD brings them back at AI speed.
 - [tphakala/p48-pip-adapter](https://github.com/tphakala/p48-pip-adapter) - Miniature phantom-power (P48) to 8V plug-in-power adapter PCB that fits inside a Neutrik NC3MXX XLR - a buffered, impedance-balanced front end for AOM-5024 electret capsules
