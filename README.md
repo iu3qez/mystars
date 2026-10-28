@@ -221,7 +221,7 @@
 
 ## Rust 
 
-- [xerj-org/xerj](https://github.com/xerj-org/xerj) - Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memor
+- [xerj-org/xerj](https://github.com/xerj-org/xerj) - AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory a
 - [diodeinc/pcb](https://github.com/diodeinc/pcb) - PCB tooling by Diode Computers, Inc.
 
 ## Shell 
