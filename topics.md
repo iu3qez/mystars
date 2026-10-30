@@ -10,6 +10,7 @@
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [analytics](#analytics)
+- [animation](#animation)
 - [arduino](#arduino)
 - [bioinformatics](#bioinformatics)
 - [c-plus-plus](#c-plus-plus)
@@ -75,6 +76,10 @@
 ## analytics 
 
 - [wavelog/wavelog](https://github.com/wavelog/wavelog) - Webbased Amateur Radio Logging Software - Log your contacts from everywhere!
+
+## animation 
+
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 
 ## arduino 
 
