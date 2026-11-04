@@ -13,6 +13,7 @@
 - [animation](#animation)
 - [arduino](#arduino)
 - [bioinformatics](#bioinformatics)
+- [c](#c)
 - [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
 - [claude](#claude)
@@ -90,6 +91,10 @@
 ## bioinformatics 
 
 - [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog
+
+## c 
+
+- [SAMS0N1TE/lr2021-sdr](https://github.com/SAMS0N1TE/lr2021-sdr) - Experimental LR2021 raw I/Q capture library and tools in C.
 
 ## c-plus-plus 
 
