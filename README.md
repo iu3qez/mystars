@@ -42,6 +42,7 @@
 
 ## C 
 
+- [thefatmoop/esp32s3-lr2021-adsb-receiver](https://github.com/thefatmoop/esp32s3-lr2021-adsb-receiver) - ESP32s3 LR2021 ADSB receiver — standalone 1090 MHz aircraft reception, offline maps, GNSS, OLED and TCP output on the W12 board.
 - [SAMS0N1TE/lr2021-sdr](https://github.com/SAMS0N1TE/lr2021-sdr) - Experimental LR2021 raw I/Q capture library and tools in C.
 - [jrowny/p4kvm](https://github.com/jrowny/p4kvm) - A proof of concept IP KVM built on espressif ESP32-P4
 - [steve-m/hsdaoh-rp2350](https://github.com/steve-m/hsdaoh-rp2350) - High Speed Data Acquisition over HDMI - RP2350 HSTX implementation
@@ -78,7 +79,6 @@
 - [Tom-ak2b/Thetis_Touchscreen_MIDI_Controller](https://github.com/Tom-ak2b/Thetis_Touchscreen_MIDI_Controller) - Control Thetis  or deskHPSDR with your own Midi Controller
 - [AndunHH/spacemouse](https://github.com/AndunHH/spacemouse) - Repository for a 6 degree of freedom (DOF) mouse, which emulates a 3Dconnexion "Space Mouse Pro wireless". It is based on four joysticks with additional keys or an encoder
 - [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
-- [lorine0s/HF_CW_Contest_transceiver_with_teensy_4_1](https://github.com/lorine0s/HF_CW_Contest_transceiver_with_teensy_4_1) - 
 - [ianm8/iDSB40](https://github.com/ianm8/iDSB40) - Double sideband transceiver with inverse audio for the 40m band.
 - [sh123/nano_power_meter](https://github.com/sh123/nano_power_meter) - Dual channel Arduino Nano milliwatt power meter for HF/VHF/UHF/SHF bands
 - [tomwetjens/ArduinoEVSE](https://github.com/tomwetjens/ArduinoEVSE) - A simple EVSE (electric vehicle supply equipment or "wall charger") built using an Arduino and open source software.
