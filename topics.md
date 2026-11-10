@@ -220,6 +220,7 @@
 
 ## others 
 
+- [thefatmoop/esp32s3-lr2021-adsb-receiver](https://github.com/thefatmoop/esp32s3-lr2021-adsb-receiver) - ESP32s3 LR2021 ADSB receiver — standalone 1090 MHz aircraft reception, offline maps, GNSS, OLED and TCP output on the W12 board.
 - [danieloquelis/BambuPlotter](https://github.com/danieloquelis/BambuPlotter) - BambuStudio fork that enabled 3D printers to behave as plotter.
 - [wilhel1812/LinkSim](https://github.com/wilhel1812/LinkSim) - A modern take at a radio link simulator
 - [AndreiVladescu/ESP32-Bit-Pirate-Hardware](https://github.com/AndreiVladescu/ESP32-Bit-Pirate-Hardware) - Carrier breaker-board for the ESP32-S3 Devkit. Works great with the ESP32-Bit-Pirate firmware.
@@ -288,7 +289,6 @@
 - [vvuk/eddy-ng](https://github.com/vvuk/eddy-ng) - 
 - [ukagit/iambic-keyer](https://github.com/ukagit/iambic-keyer) - iambic-keyer-rp2040
 - [nischu/xOTA](https://github.com/nischu/xOTA) - a platform to host temporary amateur radio activies that have similar mechanics as Islands on the Air (IOTA) or Parks on the Air (POTA)
-- [lorine0s/HF_CW_Contest_transceiver_with_teensy_4_1](https://github.com/lorine0s/HF_CW_Contest_transceiver_with_teensy_4_1) - 
 - [afiskon/hbr-mk2](https://github.com/afiskon/hbr-mk2) - All HF bands QRP CW/SSB transceiver
 - [WV-design/Trinity-toolhead](https://github.com/WV-design/Trinity-toolhead) - A single piece high performance toolhead option
 - [SP6GK/Forte-600-HF-RF-Amplifier](https://github.com/SP6GK/Forte-600-HF-RF-Amplifier) - Project of 600 W LDMOS amlifier based on 2xMRF300.
