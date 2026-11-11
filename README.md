@@ -152,7 +152,7 @@
 - [Monolith3D/Monolith_Gantry](https://github.com/Monolith3D/Monolith_Gantry) - Performance-oriented, configurable gantry platform.
 - [oxygen-fragment/claude-modular](https://github.com/oxygen-fragment/claude-modular) - Production-ready modular Claude Code framework with 30+ commands, token optimization, and MCP server integration. Achieves 2-10x productivity gains through   systematic command organization and hierar
 - [k1zmt/PhilsLibraries](https://github.com/k1zmt/PhilsLibraries) - KiCAD symbols, footprints and packages for ham-radio. SWR bridge, T50 toroids, BN-baluns, Si5351, OLED etc.
-- [umcu7tcoillab/EMI-probes](https://github.com/umcu7tcoillab/EMI-probes) - Open PCB designs for EMI probes. H-field and E-field.
+- [UMCU-7T-Coillab/EMI-probes](https://github.com/UMCU-7T-Coillab/EMI-probes) - Open PCB designs for EMI probes. H-field and E-field.
 - [WV-design/Trinity-toolhead](https://github.com/WV-design/Trinity-toolhead) - A single piece high performance toolhead option
 - [calithameridi/corevus](https://github.com/calithameridi/corevus) - High-flexibility, low-cost mechatronics controller for 3D printers
 - [F6ITU/Alexiares_Coax_Out](https://github.com/F6ITU/Alexiares_Coax_Out) - OpenHPSDR RX and TX rear panel crowbar (coax input and output, Alex retrofit)
