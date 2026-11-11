@@ -285,7 +285,7 @@
 - [sq8vps/vp-digi](https://github.com/sq8vps/vp-digi) - VP-Digi - a functional, cheap, easy to assemble and configure STM32-based APRS digipeater controller with built-in KISS modem.
 - [SP5GW/RF_Tap](https://github.com/SP5GW/RF_Tap) - 
 - [SP6GK/TXRX_Relay_Board](https://github.com/SP6GK/TXRX_Relay_Board) - A PCB for switching the signal path between RX and TX in a high-power HF amplifier, such as the Forte 600. It includes RX/TX relays, an input SWR bridge, and analog input over power protection.
-- [umcu7tcoillab/EMI-probes](https://github.com/umcu7tcoillab/EMI-probes) - Open PCB designs for EMI probes. H-field and E-field.
+- [UMCU-7T-Coillab/EMI-probes](https://github.com/UMCU-7T-Coillab/EMI-probes) - Open PCB designs for EMI probes. H-field and E-field.
 - [vvuk/eddy-ng](https://github.com/vvuk/eddy-ng) - 
 - [ukagit/iambic-keyer](https://github.com/ukagit/iambic-keyer) - iambic-keyer-rp2040
 - [nischu/xOTA](https://github.com/nischu/xOTA) - a platform to host temporary amateur radio activies that have similar mechanics as Islands on the Air (IOTA) or Parks on the Air (POTA)
