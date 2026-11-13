@@ -241,6 +241,7 @@
 
 ## TypeScript 
 
+- [nikivanov/mural](https://github.com/nikivanov/mural) - Mural - a low cost wall plotter
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [wilhel1812/LinkSim](https://github.com/wilhel1812/LinkSim) - A modern take at a radio link simulator
 - [e04/web-deep-cw-decoder](https://github.com/e04/web-deep-cw-decoder) - Ultra-accurate, real-time Morse code (CW) decoder powered by a neural network model
