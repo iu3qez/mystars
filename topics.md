@@ -29,6 +29,7 @@
 - [developer-tools](#developer-tools)
 - [embedded](#embedded)
 - [esp32](#esp32)
+- [flipperzero](#flipperzero)
 - [framework](#framework)
 - [gamedev](#gamedev)
 - [home-assistant](#home-assistant)
@@ -172,6 +173,10 @@
 - [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [sh123/esp32_loraprs](https://github.com/sh123/esp32_loraprs) - LoRa ESP32 KISS Bluetooth modem (for APRSDroid or aprs.fi iOS) +  APRS-IS RX/TX iGate over WiFi + Digipeater + DV (with Codec2 Walkie-Talkie)
 
+## flipperzero 
+
+- [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
+
 ## framework 
 
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
@@ -220,6 +225,7 @@
 
 ## others 
 
+- [nikivanov/mural](https://github.com/nikivanov/mural) - Mural - a low cost wall plotter
 - [thefatmoop/esp32s3-lr2021-adsb-receiver](https://github.com/thefatmoop/esp32s3-lr2021-adsb-receiver) - ESP32s3 LR2021 ADSB receiver — standalone 1090 MHz aircraft reception, offline maps, GNSS, OLED and TCP output on the W12 board.
 - [danieloquelis/BambuPlotter](https://github.com/danieloquelis/BambuPlotter) - BambuStudio fork that enabled 3D printers to behave as plotter.
 - [wilhel1812/LinkSim](https://github.com/wilhel1812/LinkSim) - A modern take at a radio link simulator
