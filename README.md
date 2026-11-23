@@ -100,7 +100,7 @@
 
 ## HTML 
 
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [AndreiVladescu/ESP32-Bit-Pirate-Hardware](https://github.com/AndreiVladescu/ESP32-Bit-Pirate-Hardware) - Carrier breaker-board for the ESP32-S3 Devkit. Works great with the ESP32-Bit-Pirate firmware.
 - [CharmingBlaze/moonbasic](https://github.com/CharmingBlaze/moonbasic) - moonBASIC — modern BASIC for 2D/3D games. Download IDE + runtime + docs. No Go required.
 - [F6ITU/Alexiares_LPF](https://github.com/F6ITU/Alexiares_LPF) - Low-pass filter section of OpenHPSDR frontend ((Alex retrofit))
@@ -242,7 +242,7 @@
 ## TypeScript 
 
 - [nikivanov/mural](https://github.com/nikivanov/mural) - Mural - a low cost wall plotter
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.
 - [wilhel1812/LinkSim](https://github.com/wilhel1812/LinkSim) - A modern take at a radio link simulator
 - [e04/web-deep-cw-decoder](https://github.com/e04/web-deep-cw-decoder) - Ultra-accurate, real-time Morse code (CW) decoder powered by a neural network model
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
